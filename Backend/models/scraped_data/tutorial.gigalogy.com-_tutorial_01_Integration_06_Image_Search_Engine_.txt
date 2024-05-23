@@ -1,0 +1,18 @@
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/06_Image_Search_Engine/
+
+Title: Personalized Image Search - Gigalogy Tutorial
+
+Content:
+
+Image Search Engine
+Image search endpoint generates search results based on image similarity. You have to upload an image it will search most similar items for you and retrieve them as response.
+For example, this endpoint could be used in the product details page if you want to show similar product that matches the image of the product in the detail page.
+Request path:
+POST /v1/images/search
+You can find the list and description of required parameters here.
+You can find the sample codes for this implementation here.
+Previous
+
+Next
+
+Made with Material for MkDocs

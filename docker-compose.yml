@@ -1,0 +1,79 @@
+# version: '3.8'
+
+# services:
+#   web:
+#     build: ./Backend  
+#     ports:
+#       - "8000:8000"  
+#     environment:
+#       - GEMINI_API_KEY_FILE=/run/secrets/gemini_api_key.txt  
+#       - QDRANT_API_KEY_FILE=/run/secrets/qdrant_api_key.txt  
+#       - QDRANT_URL_FILE=/run/secrets/qdrant_url.txt  
+#     secrets:
+#       - gemini_api_key  
+#       - qdrant_api_key  
+#       - qdrant_url  
+    
+#     working_dir: /app  # Corrected property name
+
+#     volumes:
+#       - ./Backend:/app
+#       - ./secrets:/run/secrets  
+    
+# secrets:
+#   gemini_api_key:
+#     file: ./secrets/gemini_api_key.txt  
+#   qdrant_api_key:
+#     file: ./secrets/qdrant_api_key.txt  
+#   qdrant_url:
+#     file: ./secrets/qdrant_url.txt  
+
+
+version: '3.8'
+
+services:
+  backend-stg:
+    build: ./Backend
+    container_name: backend-stg
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - GEMINI_API_KEY_FILE=/run/secrets/gemini_api_key.txt
+      - QDRANT_API_KEY_FILE=/run/secrets/qdrant_api_key.txt
+      - QDRANT_URL_FILE=/run/secrets/qdrant_url.txt
+    secrets:
+      - gemini_api_key
+      - qdrant_api_key
+      - qdrant_url
+    volumes:
+      - .:/backend-stg
+      - ./secrets:/run/secrets
+    networks:
+      - ragv2
+
+  frontend:
+    build: ./Frontend
+      # target: builder
+    container_name: frontend-stg
+    restart: always
+    ports:
+      - "5173:5173"
+    links:
+      - backend-stg
+    depends_on:
+      - backend-stg
+    networks:
+      - ragv2
+
+secrets:
+  gemini_api_key:
+    file: ./secrets/gemini_api_key.txt
+  qdrant_api_key:
+    file: ./secrets/qdrant_api_key.txt
+  qdrant_url:
+    file: ./secrets/qdrant_url.txt
+
+networks:
+  ragv2:
+    driver: bridge

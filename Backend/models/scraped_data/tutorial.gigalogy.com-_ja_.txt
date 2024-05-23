@@ -1,0 +1,8 @@
+URL: https://tutorial.gigalogy.com/ja/
+
+Title: Gigalogy Tutorial
+
+Content:
+
+404 - Not found
+Made with Material for MkDocs
