@@ -1,0 +1,213 @@
+# Context: Endpoint: get/v1/mappers
+HTTP Method: Get mapper
+Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:```
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);```
+# Question: What is the endpoint to get mappers?
+# Output: Endpoint: get/v1/mappers
+
+# Context: HTTP Method: Get mapper
+Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:```
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);```
+# Question: What are the possible responses for the get mapper method?
+# Output: 200, 202, 400, 401, 403, 404, 422, 429, 500
+
+# Context: Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:```
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);```
+# Question: What is the description of the get mapper method?
+# Output: Get the mapped keys between your data source and our recommender system.
+
+# Context: Endpoint: get/v1/mappers
+HTTP Method: Get mapper
+Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:```
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);```
+# Question: How do you make a GET request to the mapper endpoint using C# and RestSharp?
+# Output: var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);
+
+
+# Context: HTTP Method: Get mapper
+Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:```var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);```
+# Question: What are the headers required for the GET request to the mapper endpoint?
+# Output: request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+
+# Context: Endpoint: get/v1/mappers
+HTTP Method: Get mapper
+Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);
+
+bash
+Copy code
+# Question: How do you make a GET request to the mapper endpoint using C# and RestSharp?
+# Output: var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);
+
+yaml
+Copy code
+
+# Context: HTTP Method: Get mapper
+Method Description: Get the mapped keys between your data source and our recommender system.
+Responses:
+ Code: 200 , Description: Successful Response
+ Code: 202 , Description: Accepted
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.GET);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+IRestResponse response = client.Execute(request);
+bash
+Copy code
+# Question: What are the headers required for the GET request to the mapper endpoint?
+# Output: request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+
+yaml
+Copy code
+
+# Context: Endpoint: post/v1/mappers
+HTTP Method: Create mapper
+Method Description: Create a new mapping between your data source and our recommender system.
+Responses:
+ Code: 201 , Description: Created
+ Code: 400 , Description: Bad Request
+ Code: 401 , Description: Unauthorized
+ Code: 403 , Description: Forbidden
+ Code: 404 , Description: Not Found
+ Code: 422 , Description: Validation Error
+ Code: 429 , Description: Too Many Requests
+ Code: 500 , Description: Internal Server Error
+Sample Request:
+ - Language: Csharp + Restsharp
+ - Code:```
+var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.POST);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+request.AddJsonBody(new { key = "value" });
+IRestResponse response = client.Execute(request);```
+# Question: How do you make a POST request to create a new mapper using C# and RestSharp?
+# Output:```var client = new RestClient("https://api.recommender.gigalogy.com/v1/mappers");
+var request = new RestRequest(Method.POST);
+request.AddHeader("project-key", "SOME_STRING_VALUE");
+request.AddHeader("api-key", "SOME_STRING_VALUE");
+request.AddJsonBody(new { key = "value" });
+IRestResponse response = client.Execute(request);```
+
