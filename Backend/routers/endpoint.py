@@ -1,7 +1,7 @@
 from fastapi import APIRouter, HTTPException, Request
 from config.settings import qdrant_client
 from services.checkcollection import check_and_add_collection
-from resources.rag import generate_answer
+from resources.rag_v2 import generate_answer
 router = APIRouter()
 
 # Call the function with the desired collection name

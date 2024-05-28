@@ -6,3 +6,4 @@ uvicorn[standard]
 beautifulsoup4
 numpy
 jinja2
+google-auth-oauthlib

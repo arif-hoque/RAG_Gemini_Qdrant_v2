@@ -29,6 +29,55 @@
 #     file: ./secrets/qdrant_url.txt  
 
 
+# version: '3.8'
+
+# services:
+#   backend-stg:
+#     build: ./Backend
+#     container_name: backend-stg
+#     restart: always
+#     ports:
+#       - "8000:8000"
+#     environment:
+#       - GEMINI_API_KEY_FILE=/run/secrets/gemini_api_key.txt
+#       - QDRANT_API_KEY_FILE=/run/secrets/qdrant_api_key.txt
+#       - QDRANT_URL_FILE=/run/secrets/qdrant_url.txt
+#     secrets:
+#       - gemini_api_key
+#       - qdrant_api_key
+#       - qdrant_url
+#     volumes:
+#       - .:/backend-stg
+#       - ./secrets:/run/secrets
+#     networks:
+#       - ragv2
+
+#   frontend:
+#     build: ./Frontend
+#       # target: builder
+#     container_name: frontend-stg
+#     restart: always
+#     ports:
+#       - "5173:5173"
+#     links:
+#       - backend-stg
+#     depends_on:
+#       - backend-stg
+#     networks:
+#       - ragv2
+
+# secrets:
+#   gemini_api_key:
+#     file: ./secrets/gemini_api_key.txt
+#   qdrant_api_key:
+#     file: ./secrets/qdrant_api_key.txt
+#   qdrant_url:
+#     file: ./secrets/qdrant_url.txt
+
+# networks:
+#   ragv2:
+#     driver: bridge
+
 version: '3.8'
 
 services:
@@ -42,10 +91,12 @@ services:
       - GEMINI_API_KEY_FILE=/run/secrets/gemini_api_key.txt
       - QDRANT_API_KEY_FILE=/run/secrets/qdrant_api_key.txt
       - QDRANT_URL_FILE=/run/secrets/qdrant_url.txt
+      - GOOGLE_APPLICATION_CREDENTIALS=/run/secrets/service_account_key.json
     secrets:
       - gemini_api_key
       - qdrant_api_key
       - qdrant_url
+      - service_account_key
     volumes:
       - .:/backend-stg
       - ./secrets:/run/secrets
@@ -73,6 +124,8 @@ secrets:
     file: ./secrets/qdrant_api_key.txt
   qdrant_url:
     file: ./secrets/qdrant_url.txt
+  service_account_key:
+    file: ./secrets/service_account_key.json
 
 networks:
   ragv2:

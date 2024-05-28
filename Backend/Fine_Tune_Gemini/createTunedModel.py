@@ -63,3 +63,4 @@ tuned_model = genai.GenerativeModel(model_name=f'tunedModels/{name}')
 
 response = tuned_model.generate_content('tell me about the update mapper endpoint and give a sample python code')
 print(response.text)
+

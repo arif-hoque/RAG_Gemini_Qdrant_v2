@@ -1,0 +1,3589 @@
+URL: https://gigalogy.com/personalization-platform/
+
+Title: Gigalogy | Omnichannel Personalization for E-Commerce businesses
+
+Content:
+
+Personalization platform for e-commerce businesses
+We recommend the right products, at the right time, to the right person
+GET STARTED USE CASES
+On a mission to reshape the future of e-commerce
+Boosting Product discovery,
+amplifying User Engagement,
+driving Revenue Growth and elevating LTV
+with our all-in-one personalization platform
+Introducing Gigalogy personalizer
+FOCUS ON EACH STEP OF
+THE USER JOURNEY
+REAL TIME
+EASY TO INTEGRATE,
+IMMEDIATE RESULTS
+AI DRIVEN (GENERATIVE AI)
+Personalization, at each step of the user journey
+From the onset, even before a user discovers the brand, the experience is tailored. Personalization continues seamlessly from the initial website visit through to checkout. With real-time personalization, our engine ensures that each step of the user journey is personalized, eliminating generic product recommendations and irrelevant content.
+The 3 stages of personalization
+Discovery phase:
+Optimizing social media ad campaigns to target the ideal users.
+Engagement phase:
+Crafting a seamless shopping journey from the moment users arrive to checkout, aided by an AI assistant for guidance.
+Nurture phase:
+Offering ongoing personalized promotions to foster lasting customer loyalty.
+How it works
+Integrate our solutions to any web or mobile application using our SDKs / REST APIs with minimum effort and maximum efficiency. Built in cold start support, our solutions are capable of providing quality response even when there is not enough user behavior data.
+CREATE A PROJECT
+INTEGRATE DATA SOURCE
+TRAIN
+PUBLISH
+ENJOY
+Early customer success
+50%
+CTR improvement
+DISCOVERY
+20%
+Revenue increase
+FULFILLMENT
+3X
+Repeat users
+RETENTION
+Competitive advantage
+Features Gigalogy Company M Company V Company R
+Ease of Integration check_circle cancel cancel check_circle
+Generative AI check_circle cancel cancel cancel
+Focus on User Journey check_circle change_history change_history change_history
+Speed of Result check_circle change_history change_history change_history
+Real Time check_circle change_history change_history change_history
+Price check_circle change_history cancel cancel
+Designed for  check_circle change_history change_history change_history
+Elevate your e-commerce
+and skyrocket your conversion rate now
+GET STARTED USE CASES
+Our website use cookies to improve your experience.
+OK REJECT
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/smartads-use-case/
+
+Title: Gigalogy | SmartAds Customer Stories
+
+Content:
+
+ Customer Stories
+Here are some examples of how customers are using  in their targeted advertising campaign management.
+REQUEST A DEMO
+Complete Solution for Maximizing ROAS with AI
+Our solution enables customers to run targeted ad campaigns across multiple channels, optimizing ad spend and eliminating human error.
+CUSTOMER PROFILE
+Manages targeted ad delivery for over 100 brands using proprietary data.
+HOW WE IMPROVED CUSTOMER BUSINESS?
+1. ZERO human error
+2. 90% cost reduction in campaign management
+3. Optimization of advertising groups using recommendation engine and maximizing ROAS (Return on Advertising Spend).
+Are you ready to start building applications with greater value?
+REQUEST A DEMO
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/press-room/
+
+Title: Gigalogy | Press Room
+
+Content:
+
+Checkout our latest press releases and media coverage.
+February 1st 2024
+Our CEO participated in startup accelerator X-Hub Tokyo London program, in partnership with JETRO and L-Marks. Our goal for 2024? Forging strategic partnerships and building investor relations in the UK to fuel our growth.
+Read More
+
+▶ WATCH NOW
+December 20th 2023
+"Honored by the incredible opportunity we had to showcase Gigalogy's Personalization platform at Web Summit! On November 16th, our CEO, Mosleh Uddin, took the stage at the Startup Showcase pitch competition, sharing a glimpse into our journey and solutions that strive to make a difference."
+Read More
+December 14th 2023
+Just wrapped up an insightful event with our partner Cross Compass, Ltd., exploring the frontiers of "Generative AI for the Manufacturing Industry." Here's a glimpse into the highlights and key takeaways of yesterday's talk.
+Read More
+
+December 13th 2023
+We are thrilled to announce that we will be co-hosting an exclusive event with our partner, Cross Compass, Ltd., at our office on Wednesday, December 13th.
+Read More
+November 30th 2023
+Our CEO, Mosleh Uddin, delivered an insightful pitch on stage, unveiling how our personalization platform can propel e-commerce businesses to new heights.
+Read More
+November 16th 2023
+Our CEO, Mosleh Uddin, delivered a quickfire presentation to the audience at the Startup Showcase. The occasion for innovative startups to seize the spotlight,
+Read More
+November 14th 2023
+The final day of Web Summit has arrived! Join us at Startup Showcase where our CEO, Mosleh Uddin, will be pitching on stage for 2 minutes at PITCH 3, 3 PM.
+Read More
+October 11th 2023
+Gigalogy and Cross Compass formed a business partnership and established the Pivotal AI Institute (PAI), a training institution for advanced digital human resources.
+Read More
+September 13th 2023
+Gigalogy hosted a workshop at our new office, exploring the development of personalized GPT applications and the diverse industry applications of .
+Read More
+September 8th 2023
+Celebrating our expertise in personalization, Gigalogy showcased our unique GPT solution at the Startup World Cup held at the Grand Hyatt Tokyo.
+Read More
+▶ WATCH NOW
+July 26th 2023
+Recently, our CEO, Mosleh Uddin, had an enlightening dialogue with Masahito Ito, President of the Management Strategy Center at "Listing Principles".
+Read More
+June 28th 2023
+Gigalogy organized a session in Globis University on building a personalized student counselor using GPT
+Read More
+
+May 29th 2023
+Gigalogy organized a joint session with Social Tech Japan Lab from Kyushu University on GPT and how we can use GPT with our own data.
+Read More
+May 17th 2023
+Gigalogy hosted an innovative session on leveraging in-house data in the retail industry.
+Read More
+
+January 12th 2023
+Gigalogy get selected to participate in the Startup immersion program Silicon valley, 2023
+Read More
+
+January 7th 2023
+Gigalogy organized AI training workshop for elementary school students at Scratch Cafe
+Read More
+
+August 28th 2022
+Gigalogy started 「」to share about our innovation and technologies to everyone
+Read More
+August 2022
+Gigalogy led seminars at BUET and East Delta University, Bangladesh, discussing AI for digital products.
+Read More
+April 21st 2022
+Gigalogy makes AI accessible for everyone
+Read More
+
+Our website use cookies to improve your experience.
+OK REJECT
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://api.recommender.gigalogy.com/v1/documentation
+
+Title: Gigalogy Recommender Documentation
+
+Content:
+Loading ...
+
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7138439978035937280
+
+Title: Gigalogy on LinkedIn: #ai #generativeai #visionary #insights #artificialintelligence #llms…
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy’s Post
+Gigalogy
+1,380 followers
+5mo
+We are thrilled to announce that we will be co-hosting an exclusive event with our partner, Cross Compass, Ltd., at our office on Wednesday, December 13th. 
+
+The event will focus on the theme of "Generative AI for Manufacturing Industry."
+
+Recently, there has been significant progress in the implementation of Large Language Models (LLMs) that have garnered attention. 
+We aim to delve into the possibilities of Gigalogy by leveraging the synergy between our in-house GPT development environment, designed for effortless tailoring of generative AI with cutting-edge language models and Cross Compass, Ltd.’s AI solutions, specifically crafted for the manufacturing sector.
+
+🤝 About our partnership:
+
+Since September, we have established a pioneering partnership with Cross Compass, Ltd., focusing on delivering sophisticated machine-learning platforms and nurturing exceptional AI professionals.
+Through our collaborative effort, leveraging our combined strengths, our goal is to establish a comprehensive, integrated solution for the development and practical implementation of AI (Artificial Intelligence) technologies.
+
+Together, we have founded the Pivotal AI Institute (PAI), an educational center committed to developing the next generation of AI professionals. Our focus is on empowering these emerging talents to pioneer and shape the standards of Artificial Intelligence adoption across diverse industries.
+
+We are eagerly anticipating the arrival of fellow innovation enthusiasts and look forward to exchanging our visionary ideas and insights! 💡
+
+#ai #generativeai #visionary #insights #artificialintelligence #llms #manufacturing #partnership #innovation 
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://gigalogy.com/career/
+
+Title: Gigalogy | Career
+
+Content:
+
+Career
+At Gigalogy you will be working with talented, creative, driven individuals who are revolutionizing how technology should improve human experience.
+Culture
+We have a problem solving approach, move fast and reward hard work. We love working on projects we are very passionate about. You will have a voice in everything we do here, we will work on the challenges together and find the best solution by supporting each other.  We believe happy employee can create great user experience thus happy customers. Employee satisfaction is at the core of our company culture. 
+Learning
+We are committed to build an organization where each member can reach their fullest potential. We have employee learning program where each member can take courses to learn new technologies and try those in different projects. 
+Current Openings
+
+Customer Success Manager
+
+SALES
+Tokyo, Japan
+
+APPLY
+
+Product Manager
+
+PRODUCT
+Tokyo, Japan
+
+APPLY
+
+Solution Consultant
+
+SALES
+Tokyo, Japan
+
+APPLY
+
+Marketing Associate
+
+PRODUCT
+Tokyo, Japan
+
+APPLY
+
+Software Engineer - PHP
+
+ENGINEERING
+Dhaka, Bangladesh
+
+APPLY
+
+Software Engineer - Backend
+
+ENGINEERING
+Dhaka, Bangladesh
+
+APPLY
+
+Software Engineer - ML
+
+ENGINEERING
+Dhaka, Bangladesh
+
+APPLY
+
+Software Engineer - Frontend
+
+ENGINEERING
+Dhaka, Bangladesh
+
+APPLY
+
+Cloud Infrastructure Engineer
+
+ENGINEERING
+Dhaka, Bangladesh
+
+APPLY
+
+Software Engineer - Intern
+
+ENGINEERING
+Dhaka, Bangladesh
+
+APPLY
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/cookie-policy/
+
+Title: Gigalogy | Cookie Policy
+
+Content:
+
+Cookies Policy
+Last Updated At: September 17, 2023
+This Cookies Policy explains what Cookies are and how We use them. You should read this policy so You can understand what type of cookies We use, or the information We collect using Cookies and how that information is used.
+Cookies do not typically contain any information that personally identifies a user, but personal information that we store about You may be linked to the information stored in and obtained from Cookies. For further information on how We use, store and keep your personal data secure, see our Privacy Policy.
+We do not store sensitive personal information, such as mailing addresses, account passwords, etc. in the Cookies We use.
+Interpretation and Definitions
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions
+For the purposes of this Cookies Policy:
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Cookies Policy) refers to Gigalogy Inc., 23F, 4-1-1, Toranomon, Minato, Tokyo 105-6923.
+Cookies means small files that are placed on Your computer, mobile device or any other device by a website, containing details of your browsing history on that website among its many uses.
+Website refers to gigalogy.com, doozie.io, doozie.ai
+You means the individual accessing or using the Website, or a company, or any legal entity on behalf of which such individual is accessing or using the Website, as applicable.
+The use of the Cookies
+Type of Cookies We Use
+Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser.
+We use both session and persistent Cookies for the purposes set out below:
+Necessary / Essential Cookies
+Type: Session Cookies
+Administered by: Us
+Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
+Functionality Cookies
+Type: Persistent Cookies
+Administered by: Us
+Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+Your Choices Regarding Cookies
+If You prefer to avoid the use of Cookies on the Website, first You must disable the use of Cookies in your browser and then delete the Cookies saved in your browser associated with this website. You may use this option for preventing the use of Cookies at any time.
+If You do not accept Our Cookies, You may experience some inconvenience in your use of the Website and some features may not function properly.
+If You'd like to delete Cookies or instruct your web browser to delete or refuse Cookies, please visit the help pages of your web browser.
+For the Chrome web browser, please visit this page from Google: https://support.google.com/accounts/answer/32050
+For the Internet Explorer web browser, please visit this page from Microsoft: http://support.microsoft.com/kb/278835
+For the Firefox web browser, please visit this page from Mozilla: https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored
+For the Safari web browser, please visit this page from Apple: https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac
+For any other web browser, please visit your web browser's official web pages.
+Contact Us
+If you have any questions about this Cookies Policy, You can contact us:
+By email: info@gigalogy.com
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/event/
+
+Title: Gigalogy | Events
+
+Content:
+
+Past 
+At Gigalogy, we aim to explore cutting-edge technologies and innovations, connecting with tech enthusiasts willing to get inspired and deep-dive into the latest tech trends. Learn about Artificial Intelligence, Generative AI, LLMs, web3, blockchain, and much more, and explore why these technologies are transforming our daily lives and shaping our future, how to leverage them, and their use cases.
+Wed, Sep 13th 2023, 6:30 PM JST
+Ep.2 — Create your personalized GPT assistant
+
+DETAILS
+Wed, Feb 9th 2022, 6:00 PM JST
+Ep.1 — Doozie Token (DZT) - Decentralized personalized reward system for the internet
+
+DETAILS
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/#ja
+
+Title: Gigalogy | Empowering Businesses to Unlock the Full Potential of AI
+
+Content:
+
+Bridging the Gap Between Technology and User Experience
+Empowering Businesses to Unlock the Full Potential of AI
+GET STARTED
+Trusted by
+Our Products
+Our solutions are easy to integrate into web and mobile applications. They are affordable and designed to maximize end user satisfaction, brand loyalty, and business revenue.
+Omnichannel Personalization for E-Commerce Businesses
+Using our state-of-the-art AI engine, we transform E-Commerce businesses by enhancing product discovery, user engagement, revenue growth, and LTV.
+LEARN MORE
+Personalized GPT Application Development Platform
+An innovative platform that empowers you to train and manage your very own GPT (Generative Pre-trained Transformer) models. Unlock the potential to build intelligent applications tailored to your specific needs.
+LEARN MORE
+Revolutionize Your AIOps with Our Fully Managed Infrastructure
+ is a fully managed, end-to-end automated AIOps solution. It ensures a smooth journey for businesses to host, train, deploy, and integrate their machine learning solutions into production environments.
+LEARN MORE
+AI-Driven Programmatic Advertising Management Platform
+ is a programmatic advertising management platform that uses Artificial Intelligence to predict the optimum way of setting up digital campaigns, adjusting budget, measuring performance cross-platform in real-time and ensures optimum ROAS with transparency.
+LEARN MORE
+Why Gigalogy ?
+Produce high impact outcomes much more efficiently (time & cost) and with greater value. Build services quickly that transforms data into business impacting decisions.
+State of the Art AI Solutions
+We provide state-of-the-art AI solutions for various industries.
+
+User-First Approach
+For every feature we build, our focus is always on the end-user experience.
+Highly Customizable Solutions
+Our block module architecture allows for customization according to customer needs in a short period of time.
+What's New?
+February 1st 2024
+Our CEO participated in startup accelerator X-Hub Tokyo London program, in partnership with JETRO and L-Marks. Our goal for 2024? Forging strategic partnerships and building investor relations in the UK to fuel our growth.
+Read More
+
+▶ WATCH NOW
+December 20th 2023
+"Honored by the incredible opportunity we had to showcase Gigalogy's Personalization platform at Web Summit! On November 16th, our CEO, Mosleh Uddin, took the stage at the Startup Showcase pitch competition, sharing a glimpse into our journey and solutions that strive to make a difference."
+Read More
+December 14th 2023
+Just wrapped up an insightful event with our partner Cross Compass, Ltd., exploring the frontiers of "Generative AI for the Manufacturing Industry." Here's a glimpse into the highlights and key takeaways of yesterday's talk.
+Read More
+
+December 13th 2023
+We are thrilled to announce that we will be co-hosting an exclusive event with our partner, Cross Compass, Ltd., at our office on Wednesday, December 13th.
+Read More
+
+November 30th 2023
+Our CEO, Mosleh Uddin, delivered an insightful pitch on stage, unveiling how our personalization platform can propel e-commerce businesses to new heights.
+Read More
+November 16th 2023
+Our CEO, Mosleh Uddin, delivered a quickfire presentation to the audience at the Startup Showcase. The occasion for innovative startups to seize the spotlight,
+Read More
+READ MORE
+
+Episode 3: Becoming an AI Professional
+In our previous episodes, we’ve explored the motivations behind venturing into the AI business and the crucial considerations when starting a company. Now, our focus shifts ...
+Read More
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform”
+In the second episode of my journey, I found myself pondering a groundbreaking idea as a product manager. Back in 2017, the potential ...
+Read More
+Episode 1: My Journey to Japan and the Beginnings of My AI Adventure
+In the first episode of my story, I want to take you back to the beginning, when my fascination with Artificial Intelligence (AI) first ...
+Read More
+Introduction to AI-driven Personalized Search Engine
+Search engine makes it easy for users to find products and information relevant to their needs. Your application must have a search tool if you want to enhance the user’s ...
+Read More
+Don’t feel guilty for being a fashion addict anymore
+Have you always dreamed of making money during your shopping? It seems your dream has come true ...
+Read More
+
+Gigalogy makes AI accessible to everyone
+Gigalogy launched “Gigalogy AI Platform (GAIP)”, to dramatically facilitate AI development Gigalogy, a user experience first company ...
+Read More
+READ MORE
+Are you ready to start building applications with greater value?
+GET STARTED
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://medium.com/@gigalogy/introduction-to-ai-driven-personalized-search-engine-91af39a933af
+
+Title: Introduction to AI-driven Personalized Search Engine | by Gigalogy | Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Introduction to AI-driven Personalized Search Engine
+Gigalogy
+·
+Follow
+4 min read
+·
+Nov 9, 2022
+--
+Personalized Search Engine
+Search engine makes it easy for users to find products and information relevant to their needs. Your application must have a search tool if you want to enhance the user’s experience and make the journey more enjoyable.
+At Gigalogy, we developed a personalized search engine solution, that combines search queries with user behavior, preferences and finds the most relevant result for each user. Imagine you have an E-Commerce website and every time a user search with specific criteria, your search engine responds with the same results for everyone. 72% of users want their online experience to be personalized thanks to big tech companies for providing personalized experience in every aspect of our journey on the internet. If your website does not have the same level of personalized experience with time you will lose users, which will slow down your growth and leads to revenue loss. In 2022, personalization is no longer something nice to have. It is becoming a must-have feature in your user journey. Today, we will explain how our personalized search engine works, what are the key features and how you could be benefitted from it.
+How  works?
+A high level diagram of how personalized search works
+Our personalized search engine has two major components.
+Full-text search
+Personalization based on user behavior, preferences
+Full-text search finds the most relevant results based on search criteria. Combining that with user behavior and preferences, our search engine ensures the most relevant search results for each individual on your website.
+Now let’s take a look at some of the key features of our personalized search engine.
+Full-Text Search
+Full-text search performs linguistic searches against documents. It includes single or multiple words or phrases and returns similar items containing the words. This feature allows users to find the product without knowing the correct label.
+Multiple-keyword search
+One of the most unique feature of our personalized search engine is multiple-keyword search. You can add more than one keyword at a time. When you have a million items in your store, there is a high chance that the item user might like the most is hidden deep among other items. Sometimes it is also very difficult to express our need with a single keyword. Most of the time, users are unaware of the item’s category and the label, even the item’s existence. Multiple keyword search allows the user to search items without knowing their label, tag, and category.
+Nearby search
+Nearby search allows users to find items in a certain radius from a specific item. This feature helps users narrow down the search results and recommendations. Users can pass an item id, radius (from, to), and receive the most relevant items in that range.
+Location Based Search
+Weight Keys
+This feature allows you to assign dynamic weight to different data points. It defines how much importance you want to give to specific keys in your data. You also have the preference to choose in which key you want to put weights. You can adjust them according to your business need and importance.
+User Based similarity
+From user attributes and behavior, the core engine finds similar users and looks into what they like, and considers those information while finding the most relevant result for each user.
+User-based similarity
+You can add multiple categories and flags according to your data. If you have user data, it can generate results considering the type of the user. You can boost the items recommended to the user with a specific gender, age, and preference.
+Item-based similarity
+Item-based similarity enhances your search result so you can explore more items with a similar taste you have experienced before. Our search engine considers user behavior data to find the most similar items and show them in your search results.
+Item-Based Similarity
+Dynamic Filtering
+Once the search result is ready based on your query, now it’s time to filter them further to find the item you are looking for. Dynamic filtering provides the most relevant keywords, tags, categories, price range based on user behavior, preference, and the result items. With this feature, user can choose the right action to filter the initial search result with minimum effort.
+Gigalogy AI platform provides a fully customized personalized search engine to give the best online experience to the user. Our search engine can be integrated into any online platform for industries such as E-commerce, Travel, and Entertainment. It is easy to deploy and takes less than 30 minutes to integrate into any application.
+In our next article, we will explain how to integrate our personalized search engine with sample data and response.
+Stay tuned!
+Sign up to discover human stories that deepen your understanding of the world.
+Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+Membership
+Access the best member-only stories.
+Support independent authors.
+Listen to audio narrations.
+Read offline.
+Join the  and earn for your writing.
+Try for $5/month
+--
+Written by Gigalogy
+11 Followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+
+
+URL: https://gigalogy.com/commercial-disclosure/
+
+Title: Gigalogy | Commercial Disclosure
+
+Content:
+
+Commercial Disclosure
+特定商取引法に基づく表記
+Legal Name : Gigalogy Inc.
+Address : 23F, 4-1-1, Toranomon, Minato, Tokyo 105-6923
+Phone Number : +813-4500-7914
+Email Address : info@gigalogy.com
+Head of Operations : Md Mosleh Uddin (CEO)
+Additional Fees
+While there are no additional fees, please note that applicable taxes will be applied to your subscription charges.
+Subscription Details
+Payment Period : Your subscription payment will be processed on a monthly basis.
+Free Trial : Enjoy a complimentary trial month of our SaaS platform and explore its full features.
+Payment Method
+Billing Method : Payments are accepted exclusively through bank transfers. Each month, you will receive an email notification when your invoice is ready. After logging into your account on our website, you can check and download your invoice for your records.
+We are currently in the process of integrating additional payment services, including "Stripe." Following this, we will be able to facilitate credit card transactions as well.
+Exchanges and Refunds
+As a SaaS provider, we offer a cancellation policy for your subscription:
+Cancellation : You can cancel your subscription anytime. However, once the cancellation is initiated, your access to the project will be immediately revoked. (For the current month, you will be charged proportionally based on the number of days you have utilized the service in the current month.
+Refunds : We do not offer refunds for unused portions of a subscription. However, you'll have access to the service for the duration of the billing period you've paid for.
+
+We occasionally host special events for our subscribers. Here are the details:
+Application Period : Check our announcements for the specific application period of upcoming events. Please apply within the designated time frame to secure your spot.
+Available Quantity : The number of available slots for each event may vary. Be sure to apply early to guarantee your participation.
+Support and Contact
+Customer Support : If you require assistance or have inquiries, please contact us at info@gigalogy.com
+Data Privacy and Security
+Data Handling : We treat your data with utmost care and in accordance with our Privacy Policy. Please review this policy to understand how we collect, use, and safeguard your information.
+Price
+The pricing for our SaaS platform is available on our website, in the list of solutions. Prices are subject to change, and any updates will be communicated in advance.
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/personalization-use-case/
+
+Title: Gigalogy | Gigalogy Personalization Customer Stories
+
+Content:
+
+Personalization - Customer Stories
+Here are some examples of how customers are using Gigalogy Personalization in their products.
+GET STARTED
+Recommend Travel Destinations and Personalized Promotions to Users
+We personalize each step of the user journey, recommending the most suitable travel destinations and promotions for each user based on their preferences, behavior, and historical data.
+CUSTOMER PROFILE
+1. Travel search and booking application
+2. Provide campaigns for local and in-bound travelers
+HOW WE IMPROVED CUSTOMER BUSINESS?
+1. CTR improvement by 50%
+2. Conversion increased by 20%
+Recommend Products and Beauty Advice for Individuals
+We listen to each user's concerns, recommend the most suitable products, and advise them on how to address these concerns using our AI-enabled advisor that combines user preferences and behavior patterns.
+CUSTOMER PROFILE
+Beauty E-Commerce application
+HOW WE IMPROVED CUSTOMER BUSINESS?
+1. Product recommendations based on survey responses and user similarity.
+2. GPT enabled beauty advisor.
+Are you ready to start building applications with greater value?
+GET STARTED
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/#
+
+Title: Gigalogy | Empowering Businesses to Unlock the Full Potential of AI
+
+Content:
+
+Bridging the Gap Between Technology and User Experience
+Empowering Businesses to Unlock the Full Potential of AI
+GET STARTED
+Trusted by
+Our Products
+Our solutions are easy to integrate into web and mobile applications. They are affordable and designed to maximize end user satisfaction, brand loyalty, and business revenue.
+Omnichannel Personalization for E-Commerce Businesses
+Using our state-of-the-art AI engine, we transform E-Commerce businesses by enhancing product discovery, user engagement, revenue growth, and LTV.
+LEARN MORE
+Personalized GPT Application Development Platform
+An innovative platform that empowers you to train and manage your very own GPT (Generative Pre-trained Transformer) models. Unlock the potential to build intelligent applications tailored to your specific needs.
+LEARN MORE
+Revolutionize Your AIOps with Our Fully Managed Infrastructure
+ is a fully managed, end-to-end automated AIOps solution. It ensures a smooth journey for businesses to host, train, deploy, and integrate their machine learning solutions into production environments.
+LEARN MORE
+AI-Driven Programmatic Advertising Management Platform
+ is a programmatic advertising management platform that uses Artificial Intelligence to predict the optimum way of setting up digital campaigns, adjusting budget, measuring performance cross-platform in real-time and ensures optimum ROAS with transparency.
+LEARN MORE
+Why Gigalogy ?
+Produce high impact outcomes much more efficiently (time & cost) and with greater value. Build services quickly that transforms data into business impacting decisions.
+State of the Art AI Solutions
+We provide state-of-the-art AI solutions for various industries.
+
+User-First Approach
+For every feature we build, our focus is always on the end-user experience.
+Highly Customizable Solutions
+Our block module architecture allows for customization according to customer needs in a short period of time.
+What's New?
+February 1st 2024
+Our CEO participated in startup accelerator X-Hub Tokyo London program, in partnership with JETRO and L-Marks. Our goal for 2024? Forging strategic partnerships and building investor relations in the UK to fuel our growth.
+Read More
+
+▶ WATCH NOW
+December 20th 2023
+"Honored by the incredible opportunity we had to showcase Gigalogy's Personalization platform at Web Summit! On November 16th, our CEO, Mosleh Uddin, took the stage at the Startup Showcase pitch competition, sharing a glimpse into our journey and solutions that strive to make a difference."
+Read More
+December 14th 2023
+Just wrapped up an insightful event with our partner Cross Compass, Ltd., exploring the frontiers of "Generative AI for the Manufacturing Industry." Here's a glimpse into the highlights and key takeaways of yesterday's talk.
+Read More
+
+December 13th 2023
+We are thrilled to announce that we will be co-hosting an exclusive event with our partner, Cross Compass, Ltd., at our office on Wednesday, December 13th.
+Read More
+
+November 30th 2023
+Our CEO, Mosleh Uddin, delivered an insightful pitch on stage, unveiling how our personalization platform can propel e-commerce businesses to new heights.
+Read More
+November 16th 2023
+Our CEO, Mosleh Uddin, delivered a quickfire presentation to the audience at the Startup Showcase. The occasion for innovative startups to seize the spotlight,
+Read More
+READ MORE
+
+Episode 3: Becoming an AI Professional
+In our previous episodes, we’ve explored the motivations behind venturing into the AI business and the crucial considerations when starting a company. Now, our focus shifts ...
+Read More
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform”
+In the second episode of my journey, I found myself pondering a groundbreaking idea as a product manager. Back in 2017, the potential ...
+Read More
+Episode 1: My Journey to Japan and the Beginnings of My AI Adventure
+In the first episode of my story, I want to take you back to the beginning, when my fascination with Artificial Intelligence (AI) first ...
+Read More
+Introduction to AI-driven Personalized Search Engine
+Search engine makes it easy for users to find products and information relevant to their needs. Your application must have a search tool if you want to enhance the user’s ...
+Read More
+Don’t feel guilty for being a fashion addict anymore
+Have you always dreamed of making money during your shopping? It seems your dream has come true ...
+Read More
+
+Gigalogy makes AI accessible to everyone
+Gigalogy launched “Gigalogy AI Platform (GAIP)”, to dramatically facilitate AI development Gigalogy, a user experience first company ...
+Read More
+READ MORE
+Are you ready to start building applications with greater value?
+GET STARTED
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/smartads-platform/
+
+Title: Gigalogy | AI-Driven Programmatic Advertising Management Platform
+
+Content:
+
+AI-Driven Programmatic Advertising Management Platform
+ is a programmatic advertising management platform that uses Artificial Intelligence to predict the optimum way of setting up digital campaigns, adjusting budget, measuring performance cross-platform in real-time and ensures optimum ROAS with transparency.
+REQUEST A DEMO USE CASES
+Key Features Of 
+Predict the optimum budget for a specific platform / segment real time based on your campaign goals
+Predict likelihood of user engaging to a creative element / ad
+Real time reporting
+
+Complete transparency on each stage of campaign management
+Why  ?
+Support With Multiple Goal Settings
+AI Based Daily Budget Prediction
+Cross Platform Real-Time Reporting
+1.
+SETUP GOALS & BUDGET
+2.
+DISTRIBUTE THE BUDGET ON DIFFERENT PLATFORMS
+3.
+RUN THE CAMPAIGNS ON DIFFERENT PLATFORMS
+4.
+GATHER ANALYTICS & MEASURE PERFORMANCES
+How  Works?
+The value customers receive
+Zero human error
+Campaign management cost decreased
+Transparent performance measurement according to the goals
+Supported Platform
+Are you ready to start building applications with greater value?
+REQUEST A DEMO USE CASES
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/gcore-platform/
+
+Title: Gigalogy | Revolutionize your AIOps with our Fully Managed Infrastructure
+
+Content:
+
+Revolutionize your AIOps with our Fully Managed Infrastructure
+ is a fully managed, end-to-end automated AIOps solution that ensures a smooth journey for businesses to host, train, deploy, and integrate their machine learning solutions into production environments.
+REQUEST A DEMO
+Key Features Of 
+Fully Managed Solutions
+
+No need to process data, tune machine learning models, think about infrastructure, load balancing, cluster.
+
+Multi-Cloud Infrastructure
+
+ comes with Multi-cloud support. This ensures availability of service due to any interruption in any zones. You can also choose your favorite cloud infrastructure and zones.
+Automated Data Pipeline
+
+G-core AI pipeline consists of automated data collection, training, optimum model selection and real time prediction.
+
+24/7 Monitoring
+
+G-core comes with 24/7 monitoring capability. This includes real time CPU, memory usage, running processes, log analysis etc.
+
+3rd Party Integration
+
+ provides various 3rd party integration for training data sources. Besides, it also provides integration support for slack, teams etc.
+Designed For 
+
+ comes with easy to use APIs. This ensures smooth integration of AI solutions.
+
+Why  ?
+Faster Model Development & Integration
+Build the best models while we handle the infrastructure.
+Reliability & Scalability
+Our system boasts 99.5%+ availability, is both scalable and redundant, and offers battle-tested reliability.
+How  Works?
+At Gigalogy, We Simplify AIOps
+Our customers don't need to worry about developing software for machine learning models, deploying them to servers, building data pipelines, or retraining.
+Gigalogy's AIOps infrastructure manages each step, ensuring an enjoyable AI journey for our customers.
+Competitive Advantage
+Features  SageMaker
+Ease of Customization check_circle cancel
+Multi-Cloud Infrastructure check_circle cancel
+Optimizing Resource Usage check_circle change_history
+Affordable check_circle cancel
+Automated Data pipeline check_circle change_history
+Are you ready to start building applications with greater value?
+REQUEST A DEMO
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7136287138458832897
+
+Title: Gigalogy on LinkedIn: #rocketpitchnight #tech #techevent #startup #business #pitch…
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy’s Post
+Gigalogy
+1,380 followers
+5mo
+Rocket Pitch Night was fire! 🔥
+Last night, our CEO, Mosleh Uddin, delivered an insightful pitch on stage, unveiling how our personalization platform can propel e-commerce businesses to new heights.
+
+At our booth, we had the privilege of showcasing Gigalogy's remarkable capabilities and engaging with all of you to discuss your challenges.
+The positive feedback and overwhelming interest in our solutions have fueled our excitement as we continue our journey toward revolutionizing the e-commerce landscape.
+
+Thank you to the organizers of Rocket Pitch Night by Venture Café Tokyo for providing us with an incredible opportunity to connect with the tech community. 
+
+🙌  Stay tuned for more updates as we ride the wave of innovation!
+
+#RocketPitchNight #Tech #techevent #startup #business #pitch #pitchcompetition #ecommerce #AI #personalization
+16
+1 Comment
+Like
+Comment
+Share
+Paul Roberts
+Tokyo-based IT recruiter | Blog & job board at paulroberts.jp
+5mo
+Well done!
+Like
+Reply
+To view or add a comment, sign in
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://medium.com/@gigalogy/gigalogy-makes-ai-accessible-to-everyone-df775eccf673
+
+Title: Gigalogy makes AI accessible to everyone | by Gigalogy | Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Gigalogy makes AI accessible to everyone
+Gigalogy
+·
+Follow
+4 min read
+·
+May 12, 2022
+--
+Gigalogy launched “Gigalogy AI Platform (GAIP)”, to dramatically facilitate AI development
+Gigalogy, a user experience first company transforming technology into better experience, launched a platform for ready to use, end-to-end automated AI solutions that can be integrated to any product with minimum effort and maximum efficiency.
+“Whether you are an individual/startup/business with an idea that can be transformed into a greater value with the power of AI, you deserve the opportunity/support to bring your idea to life. AI should be affordable, easy to integrate and meaningful for everyone.” Mosleh Uddin, CEO
+Today, AI is all around us and infused in our daily lives. You already use it without knowing it, while scrolling our Instagram feed, listening to music on Spotify or watching Netflix. Did you know that 80% of Netflix TV shows people are watching comes from their recommendation engines? AI makes our lives smoother and easier by offering a tailor-made user experience.
+Even though the enthusiasm for AI is getting bigger and bigger, companies are facing a lot of challenges:
+Limited number of AI experts: According to Global AI Talent Report 2019, there were less than 25,000 AI experts globally. Same year in Japan, there were only 805 AI experts. Japan’s Ministry of Economy, Trade and Industry estimates that the nation will face a shortage of 120,000 AI business experts by 2030.
+Expensiveness of the project: The cost of implementing a MVP AI solution may vary from 200,000 USD to 1,000,000 USD.
+Time consuming: In an average it takes somewhere between 9 months ~ 1 year to come up with MVP solutions.
+Besides, there are technical challenges:
+Dependability: Performance of an AI solution is dependent on the quality of data, domain knowledge of the person processing it, the techniques that are used to build the model and so on.
+Flexibility: AI solutions needs to be developed with enough flexibility so that it can be integrated to the digital product smoothly.
+Scalability: AI solutions tends to use a lot more resources compared to traditional software application. Developing a highly scalable automated infrastructure is a must in order to get the best out of it.
+OUR SOLUTION
+We provide a platform for ready to use, end-to-end automated AI solutions that can be integrated to any product with minimum effort and maximum efficiency.
+A USER EXPERIENCE FIRST PLATFORM
+Greater Value: Fully managed and problem focused solutions to improve user experience and bring the best out technology.
+Marketplace:  engine to find solutions matching customer needs.
+Integration: Ready-to-use, can be integrated to any digital product with minimum effort
+On our platform, you can search a solution, preview its details, create a project, access tutorials, documentation and production ready API/SDK to integrate the solution in your product with minimum effort.
+A User Experience First Platform
+SOLUTIONS WE OFFER
+Currently we offer solutions on the following categories,
+Recommendation Engine: Combining user needs and business strategy our recommendation engine provides the most relevant information for end users that lead to maximizing user satisfaction, revenue and brand loyalty.
+Natural Language Processing: Our NLP solutions focus on understanding users thoughts, context and predict an experience that maximizes user satisfaction
+Computer Vision: Our computer vision solutions focus on generating intelligence from image, video, real time data feed.
+OUR KEY VALUE PROPOSITION
+Team: No dedicated team required. Customer can start using our solutions at an affordable price.
+Time: With Gigalogy, Customer solutions will be live in production within 2 weeks.
+Expertise: Combining our domain knowledge with highly scalable AIOps infrastructure, customer project have a higher chance of success with us.
+OUR ADVANTAGE
+Customers do not have to worry about developing software for the machine learning models, deploying it to server, building data pipeline, re-training etc.
+Gigalogy automated AIOps infrastructure takes care of each step and make customer AI journey enjoyable.
+Gigalogy makes AIOps simple, fast and affordable
+Curious to know more? Click here to access GAIP.
+OUR TARGET CUSTOMERS
+Companies with digital product
+Requires AI solution to improve user engagement, LTV, revenue, brand loyalty
+Does not have the resource/expertise to do it by themselves
+We cover solutions on industries such as E-Commerce, Travel, Advertising.
+OUR BUSINESS MODEL
+Subscription: Our subscription based business model is cost effective and allows businesses from micro to large size to integrate the power of AI into their product.
+Zero Set-up Cost: Unlike others we do not have any setup cost to start our solutions. This helps our customer to onboard in our platform easily.
+Usage Based Infra Cost: Instead of a request based model we charge our customers based on the actual resource they need to support their solutions. This makes it fair, affordable and transparent for our customers.
+LET’S DISCUSS YOUR PROJECT!
+Website: https://gigalogy.com/
+Email: info@gigalogy.com
+Phone: +813–4500–7914
+Gigalogy Inc. 1 Chome-28–2 Shoto, Shibuya City, Tokyo 150–0046
+Executives: Mosleh Uddin, CEO
+ABOUT US
+We are Gigalogy, an innovative collective of like-minded folks building the next generation user experience with the power of technology.
+LinkedIn: https://www.linkedin.com/company/gigalogy
+Facebook: https://www.facebook.com/gigalogy/
+Twitter: https://twitter.com/gigalogy
+Sign up to discover human stories that deepen your understanding of the world.
+Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+Membership
+Access the best member-only stories.
+Support independent authors.
+Listen to audio narrations.
+Read offline.
+Join the  and earn for your writing.
+Try for $5/month
+AI
+UX
+Artificial Intelligence
+Machine Learning
+Personalisation
+--
+Written by Gigalogy
+11 Followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+
+
+URL: https://gigalogy.com/developer/
+
+Title: Gigalogy | Developers
+
+Content:
+
+For 
+Recommender
+Documentation
+
+Doozie Token (DZT)
+
+Doozie Token
+White Paper
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://www.linkedin.com/company/gigalogy
+
+Title: Gigalogy | LinkedIn
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy
+Software Development
+Minato, Tokyo 1,380 followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+View all 34 employees
+About us
+We are a user experience-first company that transforms technology into a better human experience. We are aiming for a cultural transition from a gut-driven, historical precedent-based organization to a data-driven organization for our customers. We provide AI solutions delivering products and services that are useful, better than the alternatives, enjoyable and delightful, and resulting in stunning and unique experiences.
+
+At Gigalogy, we produce high-impact outcomes much more efficiently (time & cost) and with greater value. We quickly build services that transform data into business-impacting decisions.
+
+Our solutions empower businesses to deliver seamless experiences to their customers, enhancing their loyalty and driving revenue growth. With effortless integration into web and mobile applications, our affordable solutions ensure end-user satisfaction is maximized.
+Sign in to see who you already know at Gigalogy
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://tutorial.gigalogy.com/
+
+Title: Gigalogy Tutorial
+
+Content:
+
+The Gigalogy AI platform (GAIP) introduces cutting-edge solutions, designed to craft personalized product offerings. These solutions address specific user needs while propelling business growth. The platform provides solutions for personalization, Custom GPT creation and CV based solution. Within this documentation, you will discover comprehensive guidance on integrating the solutions, understanding its operational framework, and leveraging its capabilities within your application.
+Let's have a rundown of the documentation:
+Tutorial
+To seamlessly integrate your product with our solutions, this section serves as your comprehensive guide. It provides a detailed, step-by-step walkthrough for integrating an API with our solutions. Additionally, you'll gain insights into how the solution function and discover strategies for effectively building your application with it. For an optimal integration process, it is advisable to thoroughly review this section prior to integrating your product.
+Get started
+
+This section offers developer-friendly API documentation designed to guide you through accessing and utilizing the recommender API effectively.
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://medium.com/@gigalogy/episode-3-becoming-an-ai-professional-5faa8c8e3951
+
+Title: Episode 3: Becoming an AI Professional | by Gigalogy | Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Episode 3: Becoming an AI Professional
+Gigalogy
+·
+Follow
+3 min read
+·
+Sep 20, 2023
+--
+In our previous episodes, we’ve explored the motivations behind venturing into the AI business and the crucial considerations when starting a company. Now, our focus shifts to the pivotal role of an “AI Professional.”
+Today, we will explore the journey to embark on a career in AI
+The Complexity of AI for Businesses:
+Identifying the right AI use cases to address corporate challenges is a formidable task. Why? Finding individuals within an organization who can envision AI-driven solutions that contribute to revenue growth is a rare occurrence. This is precisely where AI Professionals like us come into play. In the forthcoming episodes, we’ll delve into the reasons why organizations often lack in-house AI expertise.
+Understanding and Crafting Solutions:
+As AI Professionals, we dive deep into comprehending the intricacies of our client companies’ businesses. This encompasses not only the enterprise itself but also the broader industry landscape, market trends, and competition. By gaining an intimate understanding of specific industry needs, anticipating future requirements, and strategizing for differentiation, we lay the foundation for effective solutions. This process involves meticulous planning, budgeting, and projecting potential gains. This skill, often referred to as “consulting,” is an essential facet of an AI Professional’s toolkit.
+The Fusion of Technical and Domain Knowledge:
+While graduating from prestigious institutions like The University of Tokyo or MIT is commendable, crafting exceptional AI solutions may have a very low chance of success without domain-specific knowledge. In essence, becoming an AI Professional necessitates a blend of technical prowess and profound domain expertise. If I were to quantify the necessary ratio, it would be something like 5:5 or 4:6, with the latter emphasizing domain knowledge.
+To become an AI professional, one needs to possess 60% skillset and 40% technical knowledge.
+So, how does one embark on the journey to become an AI Professional?
+The Path to AI Expertise:
+Beginning a career in AI is a transformative journey that requires both technical skills and specialized knowledge. While a background in mathematics and physics can be advantageous, it is by no means a prerequisite. Here are some steps to initiate your journey toward becoming an AI professional:
+Step 1: Mastery of Programming Languages
+Commence your journey by mastering programming languages, with Python being a primary focus. Explore various machine learning libraries. Online courses and tutorials offer valuable resources for skill acquisition.
+Step 2: Identification of AI-Driven Solutions
+Analyze problems within your immediate surroundings and contemplate how AI can address them. Apply the knowledge gained in Step 1 to devise and implement innovative solutions.
+Step 3: Real-World Application and Internship
+Consider interning with AI-related companies to tackle real-life challenges and gain hands-on experience. During interviews, articulate your achievements from Steps 1 and 2 to increase your chances of success.
+I am genuinely excited about the future when I hear children say:
+“When I grow up, I want to develop AI solutions and contribute to making the world a better place!”
+It’s important to inspire the next generation to pursue careers in AI and continue pushing the boundaries of what’s possible.
+Stay tuned for the next part of our journey as we explore the world of AI and its potential for creating a better future.
+(Note: The original text includes hints about the author’s project, which will be elaborated further in the upcoming posts.)
+Don’t miss our previous episodes:
+Episode 1: My Journey to Japan and the Beginnings of my AI Adventure
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform
+Sign up to discover human stories that deepen your understanding of the world.
+Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+Membership
+Access the best member-only stories.
+Support independent authors.
+Listen to audio narrations.
+Read offline.
+Join the  and earn for your writing.
+Try for $5/month
+AI
+Artificial Intelligence
+CEO
+Startup
+Business
+--
+Written by Gigalogy
+11 Followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7143149156583321600
+
+Title: Gigalogy on LinkedIn: WEB SUMMIT - STARTUP SHOWCASE PITCH
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy’s Post
+Gigalogy
+1,380 followers
+5mo Edited
+Honored by the incredible opportunity we had to showcase Gigalogy's Personalization platform at Web Summit!
+
+On November 16th, our CEO, , took the stage at the Startup Showcase, sharing a glimpse into our journey and solutions that strive to make a difference.
+
+ is the event for innovative startups to shine, presenting their groundbreaking solutions to tackle the biggest challenges in their industries. 
+It's been a privilege to take part in this remarkable event!
+
+Check out the video of the pitch at this link:     
+
+As Gigalogy continues to reshape the future of e-commerce, we remain committed to providing impactful solutions, for happy customers.
+Stay tuned for more updates!
+
+…see more
+WEB SUMMIT - STARTUP SHOWCASE PITCH
+https://www.youtube.com/
+14
+Like
+Comment
+Share
+To view or add a comment, sign in
+More Relevant Posts
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://gigalogy.com/terms-and-conditions/
+
+Title: Gigalogy | Terms and Conditions
+
+Content:
+
+Terms and Conditions
+Last Updated At: September 17, 2023
+Please read these terms and conditions carefully before using Our Service.
+Interpretation and Definitions
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions
+For the purposes of these Terms and Conditions:
+Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
+Country refers to: Japan
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Gigalogy Inc., 23F, 4-1-1, Toranomon, Minato, Tokyo 105-6923.
+Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+Service refers to the Websites.
+Terms and Conditions (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service.
+Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
+Websites refers to gigalogy.com, doozie.io, doozie.ai
+You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Acknowledgment
+These are the Terms and Conditions governing the use of this Service and the agreement that operates between You and the Company. These Terms and Conditions set out the rights and obligations of all users regarding the use of the Service.
+Your access to and use of the Service is conditioned on Your acceptance of and compliance with these Terms and Conditions. These Terms and Conditions apply to all visitors, users and others who access or use the Service.
+By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
+Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
+Links to Other Websites
+Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
+The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
+We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+Termination
+We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
+Upon termination, Your right to use the Service will cease immediately.
+Limitation of Liability
+Notwithstanding any damages that You might incur, the entire liability of the Company and any of its suppliers under any provision of this Terms and Your exclusive remedy for all of the foregoing shall be limited to the amount actually paid by You through the Service or 100 USD if You haven't purchased anything through the Service.
+To the maximum extent permitted by applicable law, in no event shall the Company or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, but not limited to, damages for loss of profits, loss of data or other information, for business interruption, for personal injury, loss of privacy arising out of or in any way related to the use of or inability to use the Service, third-party software and/or third-party hardware used with the Service, or otherwise in connection with any provision of this Terms), even if the Company or any supplier has been advised of the possibility of such damages and even if the remedy fails of its essential purpose.
+Some states do not allow the exclusion of implied warranties or limitation of liability for incidental or consequential damages, which means that some of the above limitations may not apply. In these states, each party's liability will be limited to the greatest extent permitted by law.
+"AS IS" and "AS AVAILABLE" Disclaimer
+The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
+Governing Law
+The laws of the Country, excluding its conflicts of law rules, shall govern this Terms and Your use of the Service. Your use of the Application may also be subject to other local, state, national, or international laws.
+Disputes Resolution
+If You have any concern or dispute about the Service, You agree to first try to resolve the dispute informally by contacting the Company.
+For European Union (EU) Users
+If You are a European Union consumer, you will benefit from any mandatory provisions of the law of the country in which you are resident in.
+United States Legal Compliance
+You represent and warrant that (i) You are not located in a country that is subject to the United States government embargo, or that has been designated by the United States government as a "terrorist supporting" country, and (ii) You are not listed on any United States government list of prohibited or restricted parties.
+Severability and Waiver
+Severability
+If any provision of these Terms is held to be unenforceable or invalid, such provision will be changed and interpreted to accomplish the objectives of such provision to the greatest extent possible under applicable law and the remaining provisions will continue in full force and effect.
+Waiver
+Except as provided herein, the failure to exercise a right or to require performance of an obligation under this Terms shall not effect a party's ability to exercise such right or require such performance at any time thereafter nor shall be the waiver of a breach constitute a waiver of any subsequent breach.
+Translation Interpretation
+These Terms and Conditions may have been translated if We have made them available to You on our Service. You agree that the original English text shall prevail in the case of a dispute.
+Changes to These Terms and Conditions
+We reserve the right, at Our sole discretion, to modify or replace these Terms at any time. If a revision is material We will make reasonable efforts to provide at least 30 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at Our sole discretion.
+By continuing to access or use Our Service after those revisions become effective, You agree to be bound by the revised terms. If You do not agree to the new terms, in whole or in part, please stop using the website and the Service.
+Contact Us
+If you have any questions about these Terms and Conditions, You can contact us:
+By email: info@gigalogy.com
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/mission/
+
+Title: Gigalogy | Our Mission
+
+Content:
+
+Our DNA is reflected in our name. Gigalogy is a contraction of Giga and Analogy. Giga represents a huge number, and analogy, a comparison between one thing to another for explanation. In the world of Artificial Intelligence, there could be billions of patterns that we can not imagine with our mind. Our mission is to make sure these unknown patterns can be transformed into something easy to understand and meaningful for everyone.
+User first approach
+Innovative solutions
+Industry knowledge
+Team of professionals
+From gut-driven to data driven organization
+We are aiming a cultural transition from gut driven, historical precedent based organization to data driven and / or data informed organization for our customers.
+
+Deliver solutions that result in good experience
+AI solutions that are able to deliver products and services that are useful, better than the alternatives, are enjoyable and delightful, and result in good experience.
+We're always looking for talent
+Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
+SEE JOB OPENINGS
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://platform.gigalogy.com/solutions
+
+Title: Public Solutions | Gigalogy
+
+Content:
+expand_more
+GET STARTED
+
+
+URL: https://gigalogy.com/
+
+Title: Gigalogy | Empowering Businesses to Unlock the Full Potential of AI
+
+Content:
+
+Bridging the Gap Between Technology and User Experience
+Empowering Businesses to Unlock the Full Potential of AI
+GET STARTED
+Trusted by
+Our Products
+Our solutions are easy to integrate into web and mobile applications. They are affordable and designed to maximize end user satisfaction, brand loyalty, and business revenue.
+Omnichannel Personalization for E-Commerce Businesses
+Using our state-of-the-art AI engine, we transform E-Commerce businesses by enhancing product discovery, user engagement, revenue growth, and LTV.
+LEARN MORE
+Personalized GPT Application Development Platform
+An innovative platform that empowers you to train and manage your very own GPT (Generative Pre-trained Transformer) models. Unlock the potential to build intelligent applications tailored to your specific needs.
+LEARN MORE
+Revolutionize Your AIOps with Our Fully Managed Infrastructure
+ is a fully managed, end-to-end automated AIOps solution. It ensures a smooth journey for businesses to host, train, deploy, and integrate their machine learning solutions into production environments.
+LEARN MORE
+AI-Driven Programmatic Advertising Management Platform
+ is a programmatic advertising management platform that uses Artificial Intelligence to predict the optimum way of setting up digital campaigns, adjusting budget, measuring performance cross-platform in real-time and ensures optimum ROAS with transparency.
+LEARN MORE
+Why Gigalogy ?
+Produce high impact outcomes much more efficiently (time & cost) and with greater value. Build services quickly that transforms data into business impacting decisions.
+State of the Art AI Solutions
+We provide state-of-the-art AI solutions for various industries.
+
+User-First Approach
+For every feature we build, our focus is always on the end-user experience.
+Highly Customizable Solutions
+Our block module architecture allows for customization according to customer needs in a short period of time.
+What's New?
+February 1st 2024
+Our CEO participated in startup accelerator X-Hub Tokyo London program, in partnership with JETRO and L-Marks. Our goal for 2024? Forging strategic partnerships and building investor relations in the UK to fuel our growth.
+Read More
+
+▶ WATCH NOW
+December 20th 2023
+"Honored by the incredible opportunity we had to showcase Gigalogy's Personalization platform at Web Summit! On November 16th, our CEO, Mosleh Uddin, took the stage at the Startup Showcase pitch competition, sharing a glimpse into our journey and solutions that strive to make a difference."
+Read More
+December 14th 2023
+Just wrapped up an insightful event with our partner Cross Compass, Ltd., exploring the frontiers of "Generative AI for the Manufacturing Industry." Here's a glimpse into the highlights and key takeaways of yesterday's talk.
+Read More
+
+December 13th 2023
+We are thrilled to announce that we will be co-hosting an exclusive event with our partner, Cross Compass, Ltd., at our office on Wednesday, December 13th.
+Read More
+
+November 30th 2023
+Our CEO, Mosleh Uddin, delivered an insightful pitch on stage, unveiling how our personalization platform can propel e-commerce businesses to new heights.
+Read More
+November 16th 2023
+Our CEO, Mosleh Uddin, delivered a quickfire presentation to the audience at the Startup Showcase. The occasion for innovative startups to seize the spotlight,
+Read More
+READ MORE
+
+Episode 3: Becoming an AI Professional
+In our previous episodes, we’ve explored the motivations behind venturing into the AI business and the crucial considerations when starting a company. Now, our focus shifts ...
+Read More
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform”
+In the second episode of my journey, I found myself pondering a groundbreaking idea as a product manager. Back in 2017, the potential ...
+Read More
+Episode 1: My Journey to Japan and the Beginnings of My AI Adventure
+In the first episode of my story, I want to take you back to the beginning, when my fascination with Artificial Intelligence (AI) first ...
+Read More
+Introduction to AI-driven Personalized Search Engine
+Search engine makes it easy for users to find products and information relevant to their needs. Your application must have a search tool if you want to enhance the user’s ...
+Read More
+Don’t feel guilty for being a fashion addict anymore
+Have you always dreamed of making money during your shopping? It seems your dream has come true ...
+Read More
+
+Gigalogy makes AI accessible to everyone
+Gigalogy launched “Gigalogy AI Platform (GAIP)”, to dramatically facilitate AI development Gigalogy, a user experience first company ...
+Read More
+READ MORE
+Are you ready to start building applications with greater value?
+GET STARTED
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://medium.com/@gigalogy/episode-2-the-birth-of-ai-solutions-for-digital-products-gigalogy-ai-platform-9e51818f75d4
+
+Title: Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform” | by Gigalogy | Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform”
+Gigalogy
+·
+Follow
+3 min read
+·
+Jul 26, 2023
+--
+In the second episode of my journey, I found myself pondering a groundbreaking idea as a product manager. Back in 2017, the potential of AI had not yet permeated the mainstream, and only a few players were exploring its possibilities. It was during this time that I had a revelation that could revolutionize how businesses interacted with their customers.
+The thought was simple yet powerful:
+“If we can create promotions specialized for each user, can’t we improve conversion rates and increase sales?”
+I saw the potential of AI in transforming the way businesses engaged with their customers, personalizing experiences, and driving success.
+At the time, my company was substantial, boasting over 5,000 employees and offices across the world. Surprisingly, we didn’t have a dedicated AI team. As I delved deeper into the issue, I discovered that this was a widespread challenge faced by many companies. The lack of AI development systems hindered their ability to unlock the true potential of personalized experiences.
+Driven by the belief that AI solutions could be the key to unlocking this potential, I made a life-changing decision:
+“Okay, let’s create a business related to AI.”
+To kickstart this new venture, I recognized the importance of addressing three crucial steps:
+Step 1: Clarify what challenges can be solved.
+Step 2: Check if it can generate revenue and stand as a business.
+Step 3: Establish superiority by differentiating from existing solutions.
+At that time, AI solutions were mainly offered by software consulting firms, but I noticed a few key characteristics that set them apart. The timeline to release a MVP (Minimum Viable Product) typically took around a year, and the cost ranged from 20 million yen to 100 million yen. This high cost made it challenging for small and medium-sized enterprises or growing companies to adopt AI solutions.
+Furthermore, these consulting firms primarily focused on larger enterprises, neglecting the needs of smaller companies and non-technology-focused businesses. The lack of a clear return on investment made investing in AI solutions a high-risk decision for many.
+Realizing the potential to create AI solutions that catered to the needs of all businesses, from large corporations to small and medium-sized enterprises, I was inspired to establish “AI Solutions for Digital Products: Gigalogy AI Platform.” I envisioned a company that would bridge the gap and provide accessible, cost-effective, and efficient AI solutions to businesses of all sizes, enabling them to unlock the full potential of personalized experiences.
+In the upcoming episodes, I’ll share the challenges, triumphs, and pivotal moments that shaped the growth of “Gigalogy AI Platform.” Join me as I continue on this exhilarating journey, determined to make a lasting impact on businesses and their customers through the power of AI.
+To be continued in Part 3…
+Sign up to discover human stories that deepen your understanding of the world.
+Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+Membership
+Access the best member-only stories.
+Support independent authors.
+Listen to audio narrations.
+Read offline.
+Join the  and earn for your writing.
+Try for $5/month
+Artificial Intelligence
+Business
+Startup
+Entrepreneurship
+Personalization
+--
+Written by Gigalogy
+11 Followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+
+
+URL: https://gigalogy.com/about-us/
+
+Title: Gigalogy | Corporate Profile
+
+Content:
+
+Gigalogy is a user experience first company building useful and enduring technology products
+Jan 17th, 2020 — Gigalogy was born in Tokyo
+Jan, 2020 — Gigalogy opened office in Dhaka, Bangladesh
+May, 2020 — Released : AI driven programmatic advertising delivery management platform
+May, 2021 — Alpha release of Gigalogy AI Platform (GAIP)
+Feb, 2022 — Released Doozie Token (DZT) to public blockchain
+May, 2022 — Beta release of Gigalogy AI Platform (GAIP)
+Jun, 2022 — Opened office in Dubai, UAE
+Jan, 2023 — Selected as a finalist in the JETRO Silicon Valley pitch competition
+Feb, 2023 — Released , a fully managed infrastructure for simplifying AIOps
+May, 2023 — Beta release of personalized GPT application development platform.
+Oct, 2023 — Announcement of partnership with CrossCompass & establishment of Pivotal AI Institute.
+Head Office - Gigalogy Inc.
+23F, 4-1-1 Toranomon, Minato, Tokyo 105-6923
+Executives: Mosleh Uddin, CEO
+Email: info@gigalogy.com
+Phone: +813-4500-7914
+We're always looking for talent
+Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
+SEE JOB OPENINGS
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://medium.com/@gigalogy/dont-feel-guilty-for-being-a-fashion-addict-anymore-7eedb8873a4
+
+Title: Don’t feel guilty for being a fashion addict anymore | by Gigalogy | Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Don’t feel guilty for being a fashion addict anymore
+Gigalogy
+·
+Follow
+1 min read
+·
+Oct 26, 2022
+--
+Have you always dreamed of making money during your shopping?
+It seems your dream has come true…
+Doozie is a fashion lovers’ community, where people can share their shopping experiences, find inspiration through a gamified and personalized journey, and spread their vision of style 🔥
+By fulfilling offers while shopping online, users will receive money!
+How does it work?
+Users get rewarded for contributing to this community & for their creativity in Doozie Token (DZT), a token built on the Stellar network 💎
+With DZT we want to create harmony among users, contributors, and businesses that not only solves the issues existing reward programs fail to address but also maximizes user satisfaction and brand loyalty.
+We need your precious input to build the best user experience possible, matching your needs and expectations.
+Answer our survey and win $10 worth of DZTs! 💸Want to be the first one to test our new app? 🚀 Let us know at the end of the survey.
+This new shopping era is coming end of the year. Follow us on instagram to stay tuned:
+#web3 #blockchain #giveway #doozietoken #DZT #crypto #cryptoreward #defi
+Sign up to discover human stories that deepen your understanding of the world.
+Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+Membership
+Access the best member-only stories.
+Support independent authors.
+Listen to audio narrations.
+Read offline.
+Join the  and earn for your writing.
+Try for $5/month
+Fashion
+Rewards
+Shopping
+Earn Money Online
+--
+Written by Gigalogy
+11 Followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+
+
+URL: https://api.recommender.gigalogy.com/v1/sandbox#/
+
+Title: Gigalogy Recommender - Swagger UI
+
+Content:
+
+
+
+URL: https://gigalogy.com/privacy-policy/
+
+Title: Gigalogy | Privacy Policy
+
+Content:
+
+Privacy Policy
+Last Updated At: September 17, 2023
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
+Interpretation and Definitions
+Interpretation
+The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
+Definitions
+For the purposes of this Privacy Policy:
+Account means a unique account created for You to access our Service or parts of our Service.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Gigalogy Inc., 23F, 4-1-1, Toranomon, Minato, Tokyo 105-6923.
+Cookies are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
+Country refers to: Japan
+Device means any device that can access the Service such as a computer, a smartphone or a digital tablet.
+Personal Data is any information that relates to an identified or identifiable individual.
+Service refers to the Websites.
+Service Provider means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
+Usage Data refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).
+Websites refers to gigalogy.com, doozie.io, doozie.ai.
+You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
+Collecting and Using Your Personal Data
+Types of Data Collected
+Personal Data
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+Email address
+First name and last name
+Phone number
+Address, State, Province, ZIP/Postal code, City
+Usage Data
+Usage Data
+Usage Data is collected automatically when using the Service.
+Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.
+We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
+Tracking Technologies and Cookies
+We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
+Cookies or Browser Cookies. A cookie is a small file placed on Your Device. You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service. Unless you have adjusted Your browser setting so that it will refuse Cookies, our Service may use Cookies.
+Web Beacons. Certain sections of our Service and our emails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an email and for other related website statistics (for example, recording the popularity of a certain section and verifying system and server integrity).
+Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on Your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close Your web browser.
+We use both Session and Persistent Cookies for the purposes set out below:
+Necessary / Essential Cookies
+Type: Session Cookies
+Administered by: Us
+Purpose: These Cookies are essential to provide You with services available through the Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.
+Cookies Policy / Notice Acceptance Cookies
+Type: Persistent Cookies
+Administered by: Us
+Purpose: These Cookies identify if users have accepted the use of cookies on the Website.
+Functionality Cookies
+Type: Persistent Cookies
+Administered by: Us
+Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.
+For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.
+Use of Your Personal Data
+The Company may use Personal Data for the following purposes:
+To provide and maintain our Service, including to monitor the usage of our Service.
+To manage Your Account: to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.
+For the performance of a contract: the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
+To contact You: To contact You by email, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
+To provide You with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
+To manage Your requests: To attend and manage Your requests to Us.
+For business transfers: We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.
+For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+We may share Your personal information in the following situations:
+With Service Providers: We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
+For business transfers: We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
+With Affiliates: We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
+With business partners: We may share Your information with Our business partners to offer You certain products, services or promotions.
+With other users: when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+With Your consent: We may disclose Your personal information for any other purpose with Your consent.
+Retention of Your Personal Data
+The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.
+The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.
+Transfer of Your Personal Data
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
+The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
+Disclosure of Your Personal Data
+Business Transactions
+If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
+Law enforcement
+Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
+Other legal requirements
+The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
+Comply with a legal obligation
+Protect and defend the rights or property of the Company
+Prevent or investigate possible wrongdoing in connection with the Service
+Protect the personal safety of Users of the Service or the public
+Protect against legal liability
+Security of Your Personal Data
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+Children's Privacy
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Links to Other Websites
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+Changes to this Privacy Policy
+We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
+We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+By email: info@gigalogy.com
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://www.facebook.com/gigalogy/
+
+Title: Gigalogy | Minato Tokyo
+
+Content:
+Log in
+Gigalogy 
+4.6K likes • 4.8K followers
+More
+Posts
+About
+Photos
+Videos
+Intro
+Bridging the Gap Between Technology and User Experience.
+Page · Information technology company
+23F, 4-1-1 Toranomon, Minato, Tokyo, Japan
++81 3-4500-7914
+info@gigalogy.com
+gigalogy.com/about-us
+Not yet rated (0 reviews)
+Photos
+See All Photos
+Privacy
+  · Terms
+  · Advertising
+  · Ad choices
+  · Cookies
+  · More
+  · Meta © 2024
+Gigalogy
+o
+d
+p
+n
+o
+s
+t
+S
+e
+r
+:
+a
+3
+9
+a
+8
+1
+i
+2
+0
+a
+3
+4
+3
+i
+y
+6
+5
+9
+f
+1
+1
+0
+1
+4
+m
+1
+l
+M
+a
+ 0
+5
+9
+2
+h
+ 7
+8
+t
+f
+9
+g
+g
+2
+1
+3
+c
+0
+   ·
+前回のブログではGigalogyの「My GPT」についてお話しました。今回は、僕がAIに特化するきっかけになった、パーソナライゼーションの進化とGigalogy  についてお伝えします。是非ご覧ください！
+https://ameblo.jp/gigalogy-mosleh/entry-12853291942.html
+#AI #人工知能 #カスタムAI #GPT #自社GPT #MYGPT #EC #AIレコメンド #AIインフラ #パーソナライズ #レコメンデーション #ダイナミックプライシング #感情分析 #顔認証 #OCR #検索エンジン #チャットボット #ボイスボット #SaaS #バーチャルアシスタント #Gigalogy株式会社 #Gigalogy #Gigalogyパーソナライザー #パーソナライゼーションプラットフォーム
+All reactions:
+4
+Like
+Comment
+See more on Facebook
+Email address or phone number
+Password
+Log in
+Forgotten password?
+or
+Create New Account
+
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7158730506094710784
+
+Title: Gigalogy on LinkedIn: #gigalogy #ukmarket #london #ecommerce #personalization #startup #pitch…
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy’s Post
+Gigalogy
+1,380 followers
+3mo
+Our CEO, Mosleh Uddin, just returned from the 7-day startup accelerator X-HUB TOKYO London program, in partnership with JETRO - Japan External Trade Organization and L Marks.
+
+This program has provided invaluable support for Gigalogy's global expansion efforts, offering insights into the dynamic UK market. 
+With London's thriving tech ecosystem and the UK's position as Europe's largest e-commerce market, the growth opportunities are immense.
+
+Understanding the UK Market:
+
+The UK stands as a beacon of innovation in e-commerce personalization, boasting a market size of £160 billion, positioning itself as Europe's largest e-commerce market and the third-largest globally, following China and the US. 
+
+London, in particular, serves as a nucleus for e-commerce companies, hosting 21 unicorns, including industry giants like FARFETCH, Depop, and ASOS.com. Its conducive business environment and robust connectivity fuel the growth of tech-savvy consumers, creating unparalleled opportunities for companies like Gigalogy.
+
+Key Takeaways from London:
+
+- In 2020, a staggering 87% of UK internet users engaged in online shopping, constituting 14.5% of global online retail sales.
+- UK consumers exhibit advanced technological adoption, spending 82 billion hours on mobile shopping apps in 2020, marking a 30% increase from the previous year.
+- With an annual expenditure of £3,250 per shopper online, UK consumers outpace their global counterparts, underscoring the market's potential for growth and profitability.
+- London's thriving tech ecosystem witnessed 75 unicorns raising a record $26 billion in funding in 2021, surpassing any other European capital.
+- The city attracted $5 billion in venture capital investment in its e-commerce sector alone in 2021, positioning it as a formidable contender on the global stage.
+
+Gigalogy's Next Chapter:
+
+Fueled by these insights and connections, Gigalogy is gearing up for an exciting 2024:
+- Forging Strategic Partnerships: We're actively seeking collaborations with key players in the UK to leverage their expertise and expand our reach.
+- Building Investor Relations: We're committed to attracting investment that fuels our global growth ambitions.
+
+:
+
+At Gigalogy, we believe AI should be accessible and empowering for everyone. If you share our vision and passion for using technology to make a positive impact, let's connect! We thrive on insightful discussions and love sharing our experiences.
+
+Ready to dive into the future of e-commerce with Gigalogy? Let's chat!
+
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://gigalogy.com/#hometop
+
+Title: Gigalogy | Empowering Businesses to Unlock the Full Potential of AI
+
+Content:
+
+Bridging the Gap Between Technology and User Experience
+Empowering Businesses to Unlock the Full Potential of AI
+GET STARTED
+Trusted by
+Our Products
+Our solutions are easy to integrate into web and mobile applications. They are affordable and designed to maximize end user satisfaction, brand loyalty, and business revenue.
+Omnichannel Personalization for E-Commerce Businesses
+Using our state-of-the-art AI engine, we transform E-Commerce businesses by enhancing product discovery, user engagement, revenue growth, and LTV.
+LEARN MORE
+Personalized GPT Application Development Platform
+An innovative platform that empowers you to train and manage your very own GPT (Generative Pre-trained Transformer) models. Unlock the potential to build intelligent applications tailored to your specific needs.
+LEARN MORE
+Revolutionize Your AIOps with Our Fully Managed Infrastructure
+ is a fully managed, end-to-end automated AIOps solution. It ensures a smooth journey for businesses to host, train, deploy, and integrate their machine learning solutions into production environments.
+LEARN MORE
+AI-Driven Programmatic Advertising Management Platform
+ is a programmatic advertising management platform that uses Artificial Intelligence to predict the optimum way of setting up digital campaigns, adjusting budget, measuring performance cross-platform in real-time and ensures optimum ROAS with transparency.
+LEARN MORE
+Why Gigalogy ?
+Produce high impact outcomes much more efficiently (time & cost) and with greater value. Build services quickly that transforms data into business impacting decisions.
+State of the Art AI Solutions
+We provide state-of-the-art AI solutions for various industries.
+
+User-First Approach
+For every feature we build, our focus is always on the end-user experience.
+Highly Customizable Solutions
+Our block module architecture allows for customization according to customer needs in a short period of time.
+What's New?
+February 1st 2024
+Our CEO participated in startup accelerator X-Hub Tokyo London program, in partnership with JETRO and L-Marks. Our goal for 2024? Forging strategic partnerships and building investor relations in the UK to fuel our growth.
+Read More
+
+▶ WATCH NOW
+December 20th 2023
+"Honored by the incredible opportunity we had to showcase Gigalogy's Personalization platform at Web Summit! On November 16th, our CEO, Mosleh Uddin, took the stage at the Startup Showcase pitch competition, sharing a glimpse into our journey and solutions that strive to make a difference."
+Read More
+December 14th 2023
+Just wrapped up an insightful event with our partner Cross Compass, Ltd., exploring the frontiers of "Generative AI for the Manufacturing Industry." Here's a glimpse into the highlights and key takeaways of yesterday's talk.
+Read More
+
+December 13th 2023
+We are thrilled to announce that we will be co-hosting an exclusive event with our partner, Cross Compass, Ltd., at our office on Wednesday, December 13th.
+Read More
+
+November 30th 2023
+Our CEO, Mosleh Uddin, delivered an insightful pitch on stage, unveiling how our personalization platform can propel e-commerce businesses to new heights.
+Read More
+November 16th 2023
+Our CEO, Mosleh Uddin, delivered a quickfire presentation to the audience at the Startup Showcase. The occasion for innovative startups to seize the spotlight,
+Read More
+READ MORE
+
+Episode 3: Becoming an AI Professional
+In our previous episodes, we’ve explored the motivations behind venturing into the AI business and the crucial considerations when starting a company. Now, our focus shifts ...
+Read More
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform”
+In the second episode of my journey, I found myself pondering a groundbreaking idea as a product manager. Back in 2017, the potential ...
+Read More
+Episode 1: My Journey to Japan and the Beginnings of My AI Adventure
+In the first episode of my story, I want to take you back to the beginning, when my fascination with Artificial Intelligence (AI) first ...
+Read More
+Introduction to AI-driven Personalized Search Engine
+Search engine makes it easy for users to find products and information relevant to their needs. Your application must have a search tool if you want to enhance the user’s ...
+Read More
+Don’t feel guilty for being a fashion addict anymore
+Have you always dreamed of making money during your shopping? It seems your dream has come true ...
+Read More
+
+Gigalogy makes AI accessible to everyone
+Gigalogy launched “Gigalogy AI Platform (GAIP)”, to dramatically facilitate AI development Gigalogy, a user experience first company ...
+Read More
+READ MORE
+Are you ready to start building applications with greater value?
+GET STARTED
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7140990481995288576
+
+Title: Gigalogy on LinkedIn: #event #insights #manufacturing #ai #artificialintelligence #gpt #prompts…
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy’s Post
+Gigalogy
+1,380 followers
+5mo
+Just wrapped up an insightful event with our partner Cross Compass, Ltd., exploring the frontiers of "Generative AI for the Manufacturing Industry." 
+Here's a glimpse into the highlights and key takeaways of yesterday's talk💡
+
+- Navigating the GPT Bot Development Landscape: We have explored the difficulties in developing GPT bots, focusing on fine-tuning and data preprocessing, and how Gigalogy's expertise provides invaluable support in these areas. It was enlightening to see the practical solutions that Gigalogy offers for these complex processes.
+
+- 's Dual Processing Capability: attendees discovered the advanced functionality of Gigalogy's , which uniquely processes both image and text prompts concurrently. 
+This dual capability allows  to understand and extract information from images while responding to text prompts, enhancing the depth and accuracy of its intelligence gathering and user interactions.
+
+- Application in the Manufacturing Industry: We explored how this cutting-edge technology can be applied in the manufacturing industry, specifically to enhance quality control processes. By integrating these tools, we can significantly improve our ability to identify defects and pinpoint faulty products, thereby increasing efficiency and ensuring product reliability.
+
+We are thankful for the presence of our fellow innovation enthusiasts who joined us yesterday evening.
+Let's continue shaping the future of AI together! 
+
+#event #insights #manufacturing #ai #artificialintelligence #gpt #prompts #futureofai #innovation #manufacturingindustry #qualitycontrol #processimprovement #processautomation 
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://gigalogy.com/developer-program/
+
+Title: Gigalogy | Partner Program
+
+Content:
+
+Are you a ML Engineer/Data Scientist ?
+Host your AI models in our production ready infrastructure and spend your time building the best model.
+Build
+Contributors can focus on building the best model solving specific problems
+Publish
+Publish your solution to our ready to use infrastructure
+Earn DZT
+Earn DZT for successfully publishing your solution. When someone subscribes to your solution you can earn DZT recurrently. Learn More about DZT
+What is Doozie Token (DZT) ?
+Doozie Token (DZT), a blockchain based personalized reward platform for the internet. With DZT we want to create a harmony among users, contributors and businesses that not only solves the issues existing reward programs fail to address but also maximizes user satisfaction and brand loyalty.
+LEARN MORE ABOUT DZT
+DZT on Gigalogy AI Platform
+DZT provides a fully functional payment & reward management system for Gigalogy AI platform
+Become a Developer
+Your Name:
+Email Address:
+Let us know in details about what kind of solution you want to build on top of our infrastructure. Please mention the technologies (framework, libraries) requires to build your solutions :
+SEND
+Our website use cookies to improve your experience.
+OK REJECT
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/gpt-flow-platform/
+
+Title: Gigalogy | Personalized GPT Application Platform
+
+Content:
+
+Personalized GPT Application Development Platform
+An innovative platform that empowers you to train and manage your very own GPT (Generative Pre-Trained Transformer) models, unlocking the potential to build intelligent applications tailored to your specific needs.
+REQUEST A DEMO USE CASES
+Key Features of 
+Data Ownership and Privacy
+Customization and Personalization
+Smart Application Development
+Easy Integration
+Model Management and Versioning
+Scalability and Performance
+Extensive Documentation and Support
+Data Source
+URL of a website/blog/article/news
+Word document
+Powerpoint
+Excel/spreadsheet
+CSV
+insert_drive_file
+JSON
+picture_as_pdf
+PDF
+Image
+Why ?
+With , you can harness the power of advanced natural language processing capabilities to create personalized virtual assistants, chatbots, recommendation systems, and much more.
+How  Works?
+1.
+INTEGRATE DATA
+2.
+AUTOMATED TRAINING
+3.
+GENERATE API
+4.
+BUILD APPLICATIONS
+Competitive Advantage
+Features 
+Ease of Customization check_circle
+Usage Of Own Data check_circle
+Fine-tuning check_circle
+Model Management check_circle
+Ready To Use API check_circle
+Fully Managed Solution check_circle
+Multiple LLM model support check_circle
+Affordable check_circle
+Supported Language Models
+gpt-3.5-turbo-instruct
+gpt-3.5-turbo
+gpt-3.5-turbo-16k
+gpt-4
+PaLM
+Llama 2
+Are you ready to start building applications with greater value?
+REQUEST A DEMO USE CASES
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/gptflow-use-case/
+
+Title: Gigalogy | MyGPT Use Cases
+
+Content:
+
+ Use Cases
+Here are some examples of how  can be used in different industries.
+REQUEST A DEMO
+Fashion
+1. Product search feature where users can freely enter the design or trend they are looking for.
+2. Automated chatbot application that responds to customer inquiries.
+3. Feature that allows real-time inquiries about product details and checks delivery status.
+Beauty
+1. "Beauty Advisor" that facilitates a conversational inquiry about beauty concerns and offers advice from our proprietary GPT.
+2. Feature that allows product searches based on individual beauty-related concerns.
+Travel
+In hotels, we utilize our proprietary GPT to provide a 24-hour virtual concierge that responds to general inquiries about room services and facilities.
+Food and beverages
+1. Feature that generates original recipes based on user preferences and ingredients they have on hand.
+2. Extracting insights from feedback and reviews
+3. Capability to propose new product ideas based on market trends and consumer needs.
+Medical
+An interactive advisor that, when provided with a patient's symptoms or concerns, offers information on potential illnesses and recommended next steps.
+Education
+By developing an AI assistant for teachers and students, it can respond to individual learning questions and recommend educational resources.
+Manufacturing
+1. An AI assistant designed for troubleshooting and proposing optimizations for manufacturing lines.
+2. Factory staff can input questions about equipment issues or processes, and our proprietary GPT instantly offers solutions and suggestions.
+Are you ready to start building applications with greater value?
+REQUEST A DEMO
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://twitter.com/gigalogy
+
+Title: Profile / X
+
+Content:
+Don’t miss what’s happening
+People on X are the first to know.
+Log in
+Sign up
+Welcome to x.com!
+We are letting you know that we are changing our URL, but your privacy and data protection settings remain the same.
+For more details, see our Privacy Policy: https://x.com/en/privacy
+Profile
+
+
+URL: https://medium.com/@gigalogy
+
+Title: Gigalogy – Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Gigalogy
+Follow
+Home
+Lists
+About
+Gigalogy
+From New Hire to Tech Leader: A Software Engineer’s Journey at Gigalogy
+What sets a good software engineer apart from a great one? It’s their ability to learn, adapt, and constantly evolve. In this article, we…
+3 min read
+·
+May 8, 2024
+Gigalogy
+Growing an AI Vision: An Intern’s Journey at Gigalogy
+Introducing Nayem Hossain, our featured “Portrait of the Month” software engineer.
+3 min read
+·
+Apr 10, 2024
+Gigalogy
+Discovering Delight: Simplifying the E-commerce Journey with Personalization Essentials
+Shopping online is much like venturing into your favorite brick-and-mortar store. You step in, look around at the array of options, and…
+3 min read
+·
+Apr 3, 2024
+Gigalogy
+E-Commerce Personalization: The Evolution from Manual Curation to AI-Driven Automation
+In the dynamic realm of e-commerce, the practice of personalization has seen a significant evolution. Initially, the approach to tailoring…
+4 min read
+·
+Mar 21, 2024
+Gigalogy
+IWD2024: A Software Engineer’s Guide for Aspiring Women
+At Gigalogy, we hold inclusivity as a core value, and we are committed to empowering women in the Tech industry ✊
+3 min read
+·
+Mar 8, 2024
+4
+Gigalogy
+How Personalized Search Can Skyrocket Your E-Commerce Business?
+Imagine walking into a virtual department store where the clothing racks are continuously shifting and rearranging, displaying only the…
+6 min read
+·
+Feb 28, 2024
+Gigalogy
+Calling all A enthusiasts!
+Dear All, I am excited to inform you that I am planning to launch Gigalogy  on Product Hunt.
+2 min read
+·
+Feb 20, 2024
+Gigalogy
+Gigalogy to participate in Web Summit 2023 Nov 13–16.
+We are Gigalogy, a user experience-first company that provides personalization solutions for e-commerce businesses. We are thrilled to…
+2 min read
+·
+Nov 6, 2023
+6
+Gigalogy
+Episode 3: Becoming an AI Professional
+In our previous episodes, we’ve explored the motivations behind venturing into the AI business and the crucial considerations when starting…
+3 min read
+·
+Sep 20, 2023
+2
+Gigalogy
+Episode 2: The Birth of “AI Solutions for Digital Products: Gigalogy AI Platform”
+In the second episode of my journey, I found myself pondering a groundbreaking idea as a product manager. Back in 2017, the potential of AI…
+3 min read
+·
+Jul 26, 2023
+10
+Gigalogy
+Episode 1: My Journey to Japan and the Beginnings of My AI Adventure
+In the first episode of my story, I want to take you back to the beginning, when my fascination with Artificial Intelligence (AI) first…
+3 min read
+·
+Jun 7, 2023
+--
+Gigalogy
+Introduction to AI-driven Personalized Search Engine
+Search engine makes it easy for users to find products and information relevant to their needs. Your application must have a search tool if…
+4 min read
+·
+Nov 9, 2022
+--
+Gigalogy
+Don’t feel guilty for being a fashion addict anymore
+Have you always dreamed of making money during your shopping?
+1 min read
+·
+Oct 26, 2022
+--
+Gigalogy
+Gigalogy makes AI accessible to everyone
+Gigalogy is launching “Gigalogy AI Platform (GAIP)”, to dramatically facilitates AI development
+4 min read
+·
+May 12, 2022
+--
+
+
+URL: https://medium.com/@gigalogy/episode-1-my-journey-to-japan-and-the-beginnings-of-my-ai-adventure-ebacdf968aa6
+
+Title: Episode 1: My Journey to Japan and the Beginnings of My AI Adventure | by Gigalogy | Medium
+
+Content:
+Open in app
+Sign up
+Sign in
+Write
+Episode 1: My Journey to Japan and the Beginnings of My AI Adventure
+Gigalogy
+·
+Follow
+3 min read
+·
+Jun 7, 2023
+--
+In the first episode of my story, I want to take you back to the beginning, when my fascination with Artificial Intelligence (AI) first took root and led me on an incredible journey to Japan.
+The origin story of Gigalogy begins with me, Mosleh Uddin, the founder and CEO of the company. I hail from Bangladesh and embarked on a life-changing journey to Japan in 2009, fueled by a scholarship from the Ministry of Education, Culture, Sports, Science and Technology, Japan. In this episode, I’ll share the reasons behind my decision to start Gigalogy after completing my studies at Osaka University and The University of Tokyo, along with my valuable experiences at companies like Rakuten.
+As I reflect on my journey, I can’t help but feel immense gratitude for the opportunity to study in Japan. The country’s reputation for technological advancements and its vibrant AI research community were major attractions for me. I was captivated by the prospect of immersing myself in a culture that seamlessly blended tradition with cutting-edge innovation.
+Throughout my academic journey, I dedicated myself to the field of AI, specializing in machine learning and AI algorithms. I devoured research papers, attended conferences, and engaged in thought-provoking discussions with fellow enthusiasts.
+Upon my arrival in Japan, I was immediately struck by the harmonious blend of tradition and progress that permeated the country. The breathtaking landscapes, bustling cities, and the palpable energy of technological advancement invigorated my spirit. I knew I had made the right decision.
+During my time in Japan, I seized every opportunity to connect with esteemed researchers, industry professionals, and like-minded AI enthusiasts. Their wisdom and guidance further fueled my passion and propelled me forward. I had the privilege of working with brilliant minds at renowned institutions and companies, including Rakuten, where I gained valuable experience and honed my skills.
+As my knowledge and expertise in AI grew, so did my conviction to create something remarkable. In 2020, I founded Gigalogy, a pioneering company dedicated to providing cutting-edge AI solutions. It was the culmination of my dreams, the manifestation of my unwavering belief in the power of AI to revolutionize industries and improve lives.
+With Gigalogy, We aim to bridge the gap between AI research and practical applications, empowering businesses to harness the full potential of AI in their operations. Our goal is to develop innovative solutions that would enhance efficiency, drive growth, and unlock new opportunities across various sectors.
+In this first episode of my journey, I’ve shared the story of how my quest for knowledge and experience brought me to Japan, ultimately leading to the creation of Gigalogy. Little did I know that this was just the beginning of an extraordinary adventure that would push the boundaries of AI and inspire countless innovations.
+Join me in the upcoming episodes as I delve deeper into the fascinating world of AI, sharing the triumphs, the challenges, and the groundbreaking moments that continue to shape Gigalogy’s path and my personal evolution in this ever-evolving field.
+To be continued in Episode 2…
+Sign up to discover human stories that deepen your understanding of the world.
+Free
+Distraction-free reading. No ads.
+Organize your knowledge with lists and highlights.
+Tell your story. Find your audience.
+Sign up for free
+Membership
+Access the best member-only stories.
+Support independent authors.
+Listen to audio narrations.
+Read offline.
+Join the  and earn for your writing.
+Try for $5/month
+Artificial Intelligence
+Japan
+Technology
+Tech
+Innovation
+--
+Written by Gigalogy
+11 Followers
+Bridging the Gap Between Technology and User Experience. Empowering Businesses to Unlock the Full Potential of AI.
+Follow
+
+
+URL: https://www.linkedin.com/feed/update/urn:li:activity:7131227969171193856
+
+Title: Gigalogy on LinkedIn: #websummit #startup #pitch #startupidea #innovation #growth #challenge…
+
+Content:
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Join now
+Sign in
+Gigalogy’s Post
+Gigalogy
+1,380 followers
+6mo
+Yesterday was a blast! 🔥 Our CEO, Mosleh Uddin, delivered a quickfire presentation to the audience at the Startup Showcase. The occasion for innovative startups to seize the spotlight, unveiling groundbreaking solutions to tackle the biggest challenges in their industries. It was an incredible opportunity for us. Thank you all for your support!
+
+#WebSummit #startup #pitch #startupidea #innovation #growth #challenge #lisbon #ceo #ai #personalization #userengagement #engagement 
+Sign in to view more content
+Create your free account or sign in to continue your search
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+Continue with Google
+New to LinkedIn? Join now
+
+
+URL: https://gigalogy.com/team/
+
+Title: Gigalogy | Our Team
+
+Content:
+
+Our team consists of visionaries, software engineers experienced in developing highly scalable systems, proven track record in building products maximizing user satisfaction.
+Tokyo Office
+Mosleh Uddin
+Chief Executive Officer
+Technical leader with experience in Financial Services, Digital Marketing. Worked as a Software Engineer, Product Manager and launched successful B2B SaaS product that generated $5M+ ARR in first 2 years.
+Moin Uddin
+Chief Technology Officer
+With 10+ years of experience in software development Moin has worked on building highly scalable systems supporting millions of users in the largest internet company in Japan.
+Perrine Mairre
+Marketing Manager
+Passionate about digital marketing & innovation, Perrine previously worked at developing the engagement of mobile learning apps in one of the largest fashion company in the world.
+Rawmy Jurshad
+Product Manager
+6 years of experience, in finance, fintech and consulting. Client-focused approach, continuous improvement advocate.
+Dhaka Office
+Md Mohiuddin
+Country Director, Bangladesh
+Md Tariqul Islam
+HR Manager, UI/UX Engineer
+Md Rokon Uz Zaman Sumon
+Senior Software Engineer
+Mudassir Zakaria
+Senior Software Engineer
+Joyita Hossain
+Software Engineer
+Abu Nesar Shahin
+Software Engineer
+Farhana Afrin
+Software Engineer
+Saiful Islam
+Software Engineer
+Sabbir Talukdar
+Software Engineer
+Israt Jerin Bristy
+Software Engineer
+Md Khyrul Bashar
+Software Engineer
+Sazzadul Islam
+Software Engineer
+Al-Amin Sarker
+Software Engineer
+Sadia Saman
+Software Engineer
+Omar Hasan
+Software Engineer
+Dipu Miah
+Software Engineer
+Md Soyad Al Rajib
+Software Engineer
+Sakeef Ameer Prodhan
+Software Engineer
+Md Alif Hossain Saurab
+Software Engineer
+Plabon Datta
+Software Engineer
+S. M. Afif Ibne Hayat
+Software Engineer
+Advisors
+Masahito Ito
+Corporate Strategy & Finance
+High level of insight in IPO in addition to overall corporate management, and currently supports corporate growth as an advisor to public companies and startups.
+We're always looking for talent
+Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
+SEE JOB OPENINGS
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://gigalogy.com/request-demo/
+
+Title: Gigalogy | Contact Us
+
+Content:
+
+Contact Us
+Get started quickly. Integrate our developer friendly APIs with minimum effort.
+We support any business model.
+
+Our platform provides entire automated workflow.
+
+Name:
+Company:
+Email Address:
+Phone:
+Interesed in:
+Solutions you are looking for
+Computer Vision
+NLP
+Recommendation Engine
+Medical Imagery
+Purpose
+AI model building & integration
+Partnership
+Both
+REQUEST A DEMO
+PRODUCT
+Gigalogy Personalization
+
+
+
+URL: https://tutorial.gigalogy.com/tutorial/00_Setup_and_training/00_account_project_creation/
+
+Title: Account and Project creation - Gigalogy Tutorial
+
+Content:
+
+Account creation
+Go to platform.gigalogy.com. Click on Get started on the top right and follow the instructions to create an account.
+After account creation, you will receive an Email for account verification. Click the link in the Email to complete the account verification.
+Note: If you don't see the email, check your spam folder or contact support.
+After creating account and logging in, you will see the solutions segments on the left side navigation bar, and detail solutions under those segments.
+Project creation
+From this page, click on the button Create a project to create your first project.
+You will need to fill in the following details:
+Project name: Can be anything, recommended to use something easier to track later.
+Language: Can be english or Japanese, based on the content of your catalog information
+Industry: Select the industry the project is intended for.
+Enabled solutions: Select the solutions you want to use.
+Next, you will see a confirmation page, check the details and click and your project creation is completed.
+In projects page, now you can see the project you just created.
+Click on the project to see the project Detail, Settings and Insights page.
+If it is your first project, this will be a trial project. The trial period is 90 days. In the project detail page, you can see the susbscription status, and related information. If you wish to end the trial period and convert to standard plan, click the button at the bottom of the page to request the change. Please note this cannot be reversed
+If it is not your first project, this will be a standard project. In the project detail page, you can see the susbscription status, and the API rate limits for the project. If you wish to increase the API rate limits, please contact us at support@gigalogy.com.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/#overview
+
+Title: Gigalogy Tutorial
+
+Content:
+
+The Gigalogy AI platform (GAIP) introduces cutting-edge solutions, designed to craft personalized product offerings. These solutions address specific user needs while propelling business growth. The platform provides solutions for personalization, Custom GPT creation and CV based solution. Within this documentation, you will discover comprehensive guidance on integrating the solutions, understanding its operational framework, and leveraging its capabilities within your application.
+Let's have a rundown of the documentation:
+Tutorial
+To seamlessly integrate your product with our solutions, this section serves as your comprehensive guide. It provides a detailed, step-by-step walkthrough for integrating an API with our solutions. Additionally, you'll gain insights into how the solution function and discover strategies for effectively building your application with it. For an optimal integration process, it is advisable to thoroughly review this section prior to integrating your product.
+Get started
+
+This section offers developer-friendly API documentation designed to guide you through accessing and utilizing the recommender API effectively.
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/en/
+
+Title: Gigalogy Tutorial
+
+Content:
+
+404 - Not found
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/#tutorial
+
+Title: Gigalogy Tutorial
+
+Content:
+
+The Gigalogy AI platform (GAIP) introduces cutting-edge solutions, designed to craft personalized product offerings. These solutions address specific user needs while propelling business growth. The platform provides solutions for personalization, Custom GPT creation and CV based solution. Within this documentation, you will discover comprehensive guidance on integrating the solutions, understanding its operational framework, and leveraging its capabilities within your application.
+Let's have a rundown of the documentation:
+Tutorial
+To seamlessly integrate your product with our solutions, this section serves as your comprehensive guide. It provides a detailed, step-by-step walkthrough for integrating an API with our solutions. Additionally, you'll gain insights into how the solution function and discover strategies for effectively building your application with it. For an optimal integration process, it is advisable to thoroughly review this section prior to integrating your product.
+Get started
+
+This section offers developer-friendly API documentation designed to guide you through accessing and utilizing the recommender API effectively.
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/03_Trending_Items_Recommendation_Engine/
+
+Title: Recommend trending items - Gigalogy Tutorial
+
+Content:
+
+Trending items recommendation engine
+Our /v1/items/trending endpoint considers all kind of possible parameters in your application such as user behavior, item co-relation, external impact, business impact and returns the trending items for a given interval as response. You can use it on user feed, top page, personalized suggestions etc.
+To use this feature, you must first set up the key parameters for the ranking model via the endpoint POST /v1/ranks/settings.
+You can find the required parameters with their description and an example request body here.
+You can always check the current setting using GET /v1/ranks/settings and update the setting using PUT /v1/ranks/settings.
+Once the above setting is done, then you can set up the feature for showing trending items using the below request path:
+POST /v1/items/trending
+To implement this solution, the required parameters with their description and an example request body can be found here. You can find sample code for implementation here.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/02_gpt_integration/gpt_feedbacks/
+
+Title: GPT Feedback - Gigalogy Tutorial
+
+Content:
+
+GPT 
+GPT Integration
+GPT Feedback
+
+GPT Feedback
+After establishing your GPT project and engaging with your bot, you may want to provide response on the dialogue quality.
+Providing Feedback via API
+To facilitate this, the endpoint PUT /v1/gpt/conversations would be of use. This endpoint allows you to designate specific conversations through their IDs, assign either positive or negative feedback, and optionally include a message conveying your review details. Such feedback is instrumental for refining the model's training and future results optimization.
+Sharing Feedback via the User Interface
+Under your GPT project's insight tab, you can see the history of your conversations in the the "GPT-Flow History" table. From the "Training data" column, you can edit the query, response and provide feedback. You can also select here which data should be added for future training and under which dataset.
+Previous
+GPT Integration
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/02_gpt_integration/gpt_project_setup/
+
+Title: GPT Project setup - Gigalogy Tutorial
+
+Content:
+
+GPT 
+GPT Integration
+GPT Feedback
+
+GPT 
+Gigalogy,s GPT based solutions allows you to make your own GPT solutions, trained with your own data, customized according to your needs. Here are some basics to get you started. Find  related endpoints in our sandbox.
+Documents
+Documents are information that GPT will consider as a single piece of information, such as Address of Gigalogy, What is Gigalogy personalization, etc.
+Datasets
+A Dataset is a collection of documents in a single file. For instance, single dataset may contain documents with information such as Address of Gigalogy, What is Gigalogy personalization, What is Gigalogy's .
+Profiles
+With each request sent to GPT endpoints POST /v1/gpt/ask and POST /v1/gpt/ask/vision, we include a parameter called gpt_profile_id. This parameter's value points to a GPT profile. GPT profiles hold information that tells the GPT how to process the information provided (query) and how to respond. To see more about what is inside a profile, check out the parameters and the example request body of the endpoint POST /v1/gpt/profiles.
+There are two types of profiles. One is for the /gpt/ask endpoint, which is a general profile for any model except gpt-4-vision-preview. The other is for the /gpt/ask/vision endpoint, for which we currently support only gpt-4-vision-preview as the model.
+
+ for  involves preparing, uploading and training your data. Additionally, set up the required setting the parameters to suit your requirement.
+Dataset
+Upload Dataset
+Use the endpoint POST /v1/gpt/datasets to upload a dataset that will be used to train your customized GPT bot. Currently, we accept CSV and JSON format. You will find the required parameters and description in the sandbox in the link above.
+How to see uploaded datasets
+Once the dataset is uploaded, you can use /v1/gpt/datasets to see all your datasets of your project. The response will give you below details along with the datasets ids. This dataset_id will be required to edit, delete, train your data.
+  {
+    "dataset_id": "a8bf8ddd-b5cb-4bea-a82b-4ac148f01c0a",
+    "created_at": "2023-12-24T20:23:34.992063+09:00",
+    "name": "NAME OF THE DATASET",
+    "description": DESCRIPTION OF THE DATASET,
+    "idx_column_name": "idx",
+    "image_url_column": "images"
+  }
+Delete dataset
+Use the endpoint DELETE /v1/gpt/datasets/{dataset_id} to delete a dataset or particular documents from a dataset. You can find the expected request body, with required parameters and values in our sandbox here
+Update Dataset
+To be updated
+Updating and deleting - Documents
+To be updated
+Training
+Use endpoint POST /v1/gpt/dataset/train to train your uploaded dataset. This endpoint will take the dataset id and image type. It is good practice to train only what is necessary to optimize the usage of resources.
+Profile
+Setup profile
+Use POST /v1/gpt/profiles to setup GPT profile. You can setup multiple profiles. However you will need to select one as the default profile in the next step.
+Here are some detail about "intro", "System" and "Model" parameters.
+Intro: This is detailed instruction for the bot on how to respond to a query. For example, if you are creating a customer support bot for an E-commerce site "AAA", this parameter could be: "Answer customer questions based on the catalog information and FAQ documents of our company. If a customer wants a product recommendation, ask up to three questions to understand their needs better, then make three recommendations and ask the customer if they like them or want different recommendations."
+System: This tells the bot about the persona it is supposed to adopt. For example, if you are creating a customer support bot for an E-commerce site "AAA", selling cosmetics, this parameter could be: "You are customer support for AAA, an expert on skincare and cosmetic products who values customer needs and provides the right product recommendations."
+Model: We support all GPT models of OpenAI, which you can select based on the needs and use cases. Please consider the purpose and the estimated token count when selecting the model, as this can significantly impact costs. You can learn more about OpenAI models from this page. This setting will impact the parameters search_max_token (tokens allocated for data sent to the model) and completion_token (tokens allocated for the reply). Note that intro, system, and query have token costs that are not included in the token size allocation. The selected model's CONTEXT WINDOW should cover the total token allocation. That is CONTEXT WINDOW ≥ search_max_token + completion_token + intro + system + query.
+You can use the use the endpoints in our sandbox under " Profiles" to Check the profiles and update or delete them.
+Default profile setup
+Once you have setup the profile(s), decide one of the profiles that should be default and use our endpoint POST /v1/gpt/settings to set your default profile.
+with this, your GPT setup is completed.
+Previous
+
+Next
+GPT Integration
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/00_Setup_and_training/01_Credential/
+
+Title: Credentials - Gigalogy Tutorial
+
+Content:
+
+After project is created, you can create credentials for your project. Multiple credentials can be created for a project, depending on your organization's needs.
+There are two types of credentials.
+Project key and API key: Used for server to server communication.
+Client key: Used for client to server communication.
+We will dive deeper in the use cases of two types of key in the integration steps.
+Note
+Please note that Gigalogy does not keep a copy of your API key, if you lose the key, create a new credential and Stop the credential with lost key.
+Create credentials
+Navigate to your project Settings page. (Got to your project and click on SETTINGS tab).
+Click on the blue “Plus” (⊕) button on the right to create credentials. Follow the on-screen instructions to create the credentials. Notice that you will have option to choose the Key Type, as mentioned above. For Client key, you can optionally limit the domain of the request origin for extra security.
+Save your credentials carefully.
+Now you can start setting up the project with your data, test and integrate the endpoints.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/
+
+Title: Gigalogy Tutorial
+
+Content:
+
+The Gigalogy AI platform (GAIP) introduces cutting-edge solutions, designed to craft personalized product offerings. These solutions address specific user needs while propelling business growth. The platform provides solutions for personalization, Custom GPT creation and CV based solution. Within this documentation, you will discover comprehensive guidance on integrating the solutions, understanding its operational framework, and leveraging its capabilities within your application.
+Let's have a rundown of the documentation:
+Tutorial
+To seamlessly integrate your product with our solutions, this section serves as your comprehensive guide. It provides a detailed, step-by-step walkthrough for integrating an API with our solutions. Additionally, you'll gain insights into how the solution function and discover strategies for effectively building your application with it. For an optimal integration process, it is advisable to thoroughly review this section prior to integrating your product.
+Get started
+
+This section offers developer-friendly API documentation designed to guide you through accessing and utilizing the recommender API effectively.
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/#api-reference
+
+Title: Gigalogy Tutorial
+
+Content:
+
+The Gigalogy AI platform (GAIP) introduces cutting-edge solutions, designed to craft personalized product offerings. These solutions address specific user needs while propelling business growth. The platform provides solutions for personalization, Custom GPT creation and CV based solution. Within this documentation, you will discover comprehensive guidance on integrating the solutions, understanding its operational framework, and leveraging its capabilities within your application.
+Let's have a rundown of the documentation:
+Tutorial
+To seamlessly integrate your product with our solutions, this section serves as your comprehensive guide. It provides a detailed, step-by-step walkthrough for integrating an API with our solutions. Additionally, you'll gain insights into how the solution function and discover strategies for effectively building your application with it. For an optimal integration process, it is advisable to thoroughly review this section prior to integrating your product.
+Get started
+
+This section offers developer-friendly API documentation designed to guide you through accessing and utilizing the recommender API effectively.
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/00_Setup_and_training/02_environment_setup/
+
+Title: Environment setup - Gigalogy Tutorial
+
+Content:
+
+To prepare GAIP for your site, there are 2 main steps
+Mapping creation
+Index creation
+Info
+These steps can also be done from our platform (GAIP). Refer here for detail.
+For this, we will use API endpoints of GAIP listed in our Sandbox
+You can also access our sandbox from the project setting page.
+Mapping creation
+The personalization engine relies on specific default keys to operate effectively. To integrate your item catalogue with our solution, it's essential to align your website's data source keys (such as item name, item description, tags, ingredients, category, etc.) with keys of personalization engine via mapping them. Our personalizer then can understand your data. This is the core part of the personalization system so the schema should be followed properly to successfully map your data.
+Item Catalogue Mapping
+To create mapping, use endpoints listed under Catalog Mapping in the sandbox.
+GET /v1/mappers to get an existing Mapper.
+PUT /v1/mappers to update an existing Mapper.
+POST /v1/mappers to create a new mapper.
+For set up your project mapping we will use POST /v1/mappers. You can find keys, value types, and description with an example request body in the sandbox You can simply replace the values in the example with your item catalogue keys and hit Execute to finish the mapping of your product catalogue Keys with GAIP keys.
+After execution, confirm the server response is success.
+Example of this item mapper creation
+Here, we will use doozie shop as an example E-commerce site.
+For an example item from the shop, this is how the data is structured.
+{
+  "success": true,
+  "result": [
+    {
+      "item_id": "12345",
+      "title": "Eco-Friendly Water Bottle",
+      "description": "A durable, BPA-free water bottle designed for everyday use. Made from eco-friendly materials, it keeps your drink cold for up to 24 hours. Perfect for staying hydrated on the go.",
+      "headline": "Stay Hydrated with Our Eco-Friendly Water Bottle",
+      "availability": true,
+      "affiliate_rate": 4,
+      "price": 2360,
+      "currency": "JPY",
+      "shop_id": "hworks",
+      "shop_name": "スマートビズ-ワイシャツ専門店-",
+      "review_count": 2836,
+      "review_average": 4.26,
+      "genre_id": "206363",
+      "brand": null,
+      "shop_url": "https://hb.afl.rakuten.co.jp/hgc/g00rgm95.h3cpt446.g00rgm95.h3cpu696/?pc=https%3A%2F%2Fwww.rakuten.co.jp%2Fhworks%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhworks%2F",
+      "item_url": "https://hb.afl.rakuten.co.jp/hgc/g00rgm95.h3cpt446.g00rgm95.h3cpu696/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhworks%2Fshirt-b0080%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhworks%2Fi%2F10000926%2F",
+      "image_urls": [
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/hworks/cabinet/001/014/shirt-b0080.jpg",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/hworks/cabinet/001/014/b0080-lineup.jpg",
+        "https://thumbnail.image.rakuten.co.jp/@0_mall/hworks/cabinet/banner/coupon202308-shdz_sq.jpg"
+      ],
+      "tag_ids": [
+        1000903,
+        1008869,
+        1039853,
+        1013746
+      ],
+      "tags": [],
+      "shipping_overseas": "",
+      "condition": 1,
+      "genre_name": null,
+      "parent_genre_categories": null,
+      "shop_review_count": null,
+      "shop_review_average": null,
+      "tax_included": true,
+      "point_multiplier": 1,
+      "best_seller": false,
+      "sale_start_time": "",
+      "sale_end_time": "",
+      "platform": "rakuten"
+    }
+  ]
+}
+This shows the keys that doozie shop has for its products. Now we can create a mapping with GAIP keys, and use the POST /v1/mapper endpoint of GAIP. In this endpoint, we will pass the keys of above data source.
+Here is an example of a mapper that we built for doozie shop, based on the keys above:
+{
+  "key_map": {
+    "item_id": "item_id",
+    "title": "title",
+    "second_title": "headline",
+    "third_title": "shop_name",
+    "fourth_title": "genre_name",
+    "availability": "availability",
+    "description": "description",
+    "image_url": "image_urls",
+    "image_url_type": "LIST_STR",
+    "item_url": "item_url",
+    "price": "price",
+    "categories": [
+      {
+        "name": "genre_id",
+        "separator": ""
+      }
+    ],
+    "custom":[],
+    "flag": [
+      "condition"
+    ]
+  }
+}
+Sample Code
+You can find sample code for this implementation here
+Once the mapper is created, you can use GET /v1/mappers endpoint to see the mapping. You can update any of mapped keys with PUT /v1/mapper endpoint and check the mapper you build from GET /v1/mapper endpoint.
+User Behavior mapping
+Similar to the item mapping key, there are some default keys for user behavior data.
+Note
+This step is required If you want to save historical user behavior data through CSV files. If you use our data collection endpoints to collect data from now on, this is not required.
+You can find the Endpoints for user mapping under "Historical User Data Collection" section in the Sandbox
+To implement this, please follow similar steps as above.
+However, in this case please note that there are four sets of endpoints for Browsing history, purchase history, rating history, user detail. You have to create mapper for each if you want to import the data.
+Index creation
+In this step, you need to create indices. We need multiple indices to run recommender solution successfully. These indices will create the necessary schemas to hold your data.
+There are 3 endpoints here
+POST /v1/index/create --> Create indices to hold your data
+DELETE /v1/index/delete --> Delete indices
+POST /v1/reindex --> Creates index with new mappings and settings and create alias for new index
+Create Index
+Request endpoint
+POST /v1/index/create
+Simply use your project key and API and click execute to create the indices for your project. Note that this will throw an error if the mapping in the previous step is not done correctly.
+After the successful execution all the necessary index will be created and item index will be created in the background. You can check the status of item index creation with a task id from GET /v1/tasks/{task_id} API at the bottom of the page.
+Please confirm the task was success.
+Delete Index
+You can delete an existing index with this endpoint.
+Request endpoint
+DELETE /v1/index/delete
+Available values are items, image_features, browse, purchase, ratings, search, stats, settings, user, tasks, logs.
+If you Delete any index, please ensure to create the index again, unless you will get error when trying to input data/item catalogue or run training.
+Reindex
+In Elastic search, reindexing is the process of copying data from one index to another, either within the same cluster or to a different cluster. This can be useful in a variety of situations, such as:
+Updating the mapping of an index: If you need to make changes to the mapping of an index, you can create a new index with the updated mapping and then reindex the data from the old index to the new one.
+Moving data from one index to another: If you need to move data from one index to another, you can reindex the data from the source index to the destination index.
+Updating the data with new data: If you have updated data that you want to add to an index, you can reindex the data with the updated data.
+Changing the shard count of an index: If you need to change the number of shards that an index is using, you can reindex the data to a new index with the desired number of shards.
+We can use Reindex API to copy data from index to another index.
+Request Endpoint:
+POST /v1/reindex
+Here is an example how to pass mappings and settings in request body:
+{
+  "index_type": "items",
+  "mappings": {
+    "settings": {
+      "analysis": {
+        "char_filter": {
+          "normalize": {
+            "type": "icu_normalizer",
+            "name": "nfkc",
+            "mode": "compose"
+          }
+        },
+        "tokenizer": {
+          "ja_kuromoji_tokenizer": {
+            "mode": "search",
+            "type": "kuromoji_tokenizer",
+            "discard_compound_token": "true",
+            "user_dictionary_rules": []
+          },
+          "ja_ngram_tokenizer": {
+            "type": "ngram",
+            "min_gram": 2,
+            "max_gram": 3,
+            "token_chars": [
+              "letter",
+              "digit"
+            ]
+          }
+        },
+        "filter": {
+          "ja_index_synonym": {
+            "type": "synonym",
+            "lenient": "false",
+            "synonyms": []
+          }
+        },
+        "analyzer": {
+          "ja_kuromoji_index_analyzer": {
+            "type": "custom",
+            "char_filter": [
+              "normalize"
+            ],
+            "tokenizer": "ja_kuromoji_tokenizer",
+            "filter": [
+              "kuromoji_baseform",
+              "kuromoji_part_of_speech",
+              "ja_index_synonym",
+              "cjk_width",
+              "ja_stop",
+              "kuromoji_stemmer",
+              "lowercase"
+            ]
+          },
+          "ja_kuromoji_search_analyzer": {
+            "type": "custom",
+            "char_filter": [
+              "normalize"
+            ],
+            "tokenizer": "ja_kuromoji_tokenizer",
+            "filter": [
+              "kuromoji_baseform",
+              "kuromoji_part_of_speech",
+              "cjk_width",
+              "ja_stop",
+              "kuromoji_stemmer",
+              "lowercase"
+            ]
+          },
+          "ja_ngram_index_analyzer": {
+            "type": "custom",
+            "char_filter": [
+              "normalize"
+            ],
+            "tokenizer": "ja_ngram_tokenizer",
+            "filter": [
+              "lowercase"
+            ]
+          },
+          "ja_ngram_search_analyzer": {
+            "type": "custom",
+            "char_filter": [
+              "normalize"
+            ],
+            "tokenizer": "ja_ngram_tokenizer",
+            "filter": [
+              "lowercase"
+            ]
+          }
+        }
+      }
+    },
+    "mappings": {
+      "properties": {
+        "item": {
+          "properties": {
+            "{title}": {
+              "type": "text",
+              "search_analyzer": "ja_kuromoji_search_analyzer",
+              "analyzer": "ja_kuromoji_index_analyzer",
+              "fields": {
+                "ngram": {
+                  "type": "text",
+                  "search_analyzer": "ja_ngram_search_analyzer",
+                  "analyzer": "ja_ngram_index_analyzer"
+                }
+              }
+            },
+            "{second_title}": {
+              "type": "text",
+              "search_analyzer": "ja_kuromoji_search_analyzer",
+              "analyzer": "ja_kuromoji_index_analyzer",
+              "fields": {
+                "ngram": {
+                  "type": "text",
+                  "search_analyzer": "ja_ngram_search_analyzer",
+                  "analyzer": "ja_ngram_index_analyzer"
+                }
+              }
+            },
+            "{third_title}": {
+              "type": "text",
+              "search_analyzer": "ja_kuromoji_search_analyzer",
+              "analyzer": "ja_kuromoji_index_analyzer",
+              "fields": {
+                "ngram": {
+                  "type": "text",
+                  "search_analyzer": "ja_ngram_search_analyzer",
+                  "analyzer": "ja_ngram_index_analyzer"
+                }
+              }
+            },
+            "{description}": {
+              "type": "text",
+              "search_analyzer": "ja_kuromoji_search_analyzer",
+              "analyzer": "ja_kuromoji_index_analyzer",
+              "fields": {
+                "ngram": {
+                  "type": "text",
+                  "search_analyzer": "ja_ngram_search_analyzer",
+                  "analyzer": "ja_ngram_index_analyzer"
+                }
+              }
+            },
+            "{price}": {
+              "type": "float"
+            },
+            "{availability}": {
+              "type": "boolean"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+Available values are items, image_features, browse, purchase, ratings, search, stats, settings, user, tasks, logs. When you define the mappings object, you should use the same keys as in the item mapper that you have built with POST /v1/mapper API.
+You might not need analyzers or tokenizers for all indices. You can keep the settings field empty if it is not required. Here is an example,
+{
+  "index_type": "search",
+  "mappings": {
+    "settings": {},
+    "mappings": {
+      "properties": {
+        "date": {
+          "type": "date"
+        }
+      }
+    }
+  }
+}
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/05_Dynamic_Pricing/
+
+Title: Dynamic Pricing - Gigalogy Tutorial
+
+Content:
+
+Dynamic pricing is a pricing strategy in which the cost of a product or service is adjusted in real-time based on the popularity of the product.
+You can maximize revenue and profit by finding the optimal price point that customers are willing to pay.
+The lowest price is always the given price.
+Info
+If you provided the catalogue information is also shared, a customized dynamic pricing solution can be designed. Please contact in this regard.
+This solution have to be setup while setting up the personalize search engine.
+Please find the boolean value dynamic pricing in the request body. When you provide the value "True," this solution will display a dynamic price to the user.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/00_Setup_and_training/04_Training/
+
+Title: Training your data - Gigalogy Tutorial
+
+Content:
+
+After you have integrated and saved your data in the GAIP database, you can train and generate intelligence from your data. You need to train several models to get your desired output. In GAIP, there are three different models that have been designed to serve different purposes.
+All models are trained at regular intervals. You can also train the models manually using the following endpoints.
+Info
+It is recommended to run all the trainings once manually after importing the item catalog/data into GAIP. After that you can check the result immediately
+Info
+These steps can also be done from our platform (GAIP). Refer here for detail.
+Item Training
+Item model takes your items from the database and generates intelligence from it so that our solution could recommend items from user behavior and filter out items with personalized search results.
+Request endpoint for training item model:
+GET /v1/item/train 
+Image Training
+Image model takes image url from item database and generates feature vectors. Feature vectors leads to calculate the similarity score and predict similar image.
+Request endpoint for training image model:
+GET /v1/image/train 
+Rank Training
+Rank model considers user behavior, item relations from item data to predict most trending items.
+Note
+You will need user data to train the rank model. Follow user behavior section to save user data.
+Request endpoint for training rank model:
+GET /v1/rank/train 
+While hitting the training endpoints, you will get a task id in response. You can check the training status of the model using that task id from GET v1/tasks/{task_id} endpoint.
+It is recommended to always check and confirm with the Task endpoints to confirm the status of the training. When using it for the first time, it might take some time to complete.
+You could also check the status of any training model with task type from GET/v1/tasks endpoint. By default, you will get the latest 100 tasks with their details.
+You can train each model once in 24 hours time frame.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/release_notes/
+
+Title: Release notes - Gigalogy Tutorial
+
+Content:
+
+GAIP 
+Apr 5, 2024
+New feature
+questionnaire mapper now supports result format. User can setup how they want to see the questionnaire result. User can setup required categories and optional categories. Recommended items from POST /v1/questionnaire/recommend will be categorized based on that. Optional categories come with their inclusion condition as well.
+Mar 27, 2024
+New feature
+From the GPT-Flow History table, you can now select which data (Query, response, feedback) you want to include in the training for future conversations and in which dataset.
+Mar 27, 2024
+New feature
+Now POST /v1/gpt/ask API have multiple options to generate answer. This can be set as the value of the key conversation_type, question type does not consider any previous conversation history. chat type considers n previous conversation history while generating an answer. The length of the converstaion is defined by the parameter chat_history_length of GPT settings.
+Mar 26, 2024
+New features
+In the same project, /gpt/ask API can now answer from both personalizer catalog and  datasets. Previously it could handle only one of the data sources.
+Introducing "Profiles" for our GPT solutions! You can now create and save multiple profiles, each with its own settings . Users no longer have to manually adjust the GPT settings every time they switch between different tasks or needs.
+Mar 20, 2024
+New features
+keyword extractor changed for japanese language. This is done to improve the quality of japanese language search capabilities. top_k can control how wide or controlled search a customer wants to do in terms of keywords.
+questionnaire/recommend end point now has a new optional parameter called recommend_count. If it is set, the value of this parameter takes priority over recommend_count variable in questionnaire mapper.
+Mar 16, 2024
+New feature
+gpt/ask and questionnaire/recommend endpoints, when providing response with product IDs, now can include any key that was set in the mapper.
+Now it is easier to set how many product questionnaire/recommend will give, with the new key "recommend_count" in the mapper.
+introducing top_k to items/search, gpt/ask, giving ability to controls the number of keywords to consider for document searching.
+Bug Fix
+questionnaire/recommend endpoint can now take Null values.
+Mar 3, 2024
+New feature
+UI-Based Project Setup: Now set up Personalization Projects directly via the UI, including file uploads, data mapping, and model training.
+Training History: View detailed training history in Project Settings for improved tracking and insights.
+Manual Training: Initiate model training manually from the UI for greater control over your personalization strategies.
+Jan 25, 2024
+New features
+Add an export button at the bottom of the GPT flow history table. Exports the Table as a CSV file for the specified time range
+GAIP sidebar improved: Solutions are accessible directly now.
+Big fix
+Bug at trial project status and upgrade flow
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/ja/
+
+Title: Gigalogy Tutorial
+
+Content:
+
+404 - Not found
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/04_Recommend_Similar_Products_on_Details_Page/
+
+Title: Recommend similar items - Gigalogy Tutorial
+
+Content:
+
+Recommend Similar Products
+This solution can be used to recommend similar products and could be used in your EC site's product details page or search result page to show similar products.
+Item recommend endpoint understands the content of your item and returns the most similar items as response.
+Request path for this solution is:
+POST /v1/items/recommend
+To implement this solution, the required parameters with description and a sample request body can be found here. You can find sample code for implementation here.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/api_reference/
+
+Title: API Reference - Gigalogy Tutorial
+
+Content:
+
+API Documentation URL
+Sandbox URL
+Previous
+GPT Feedback
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://squidfunk.github.io/mkdocs-material/
+
+Title: Material for MkDocs
+
+Content:
+Material for MkDocs
+Documentation that simply works
+Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices.
+Get started Learn more
+© BewilderedBird
+Everything you would expect
+It's just Markdown
+Focus on the content of your documentation and create a professional static site in minutes. No need to know HTML, CSS or JavaScript – let Material for MkDocs do the heavy lifting for you.
+Works on all devices
+Serve your documentation with confidence – Material for MkDocs automatically adapts to perfectly fit the available screen estate, no matter the type or size of the viewing device. Desktop. Tablet. Mobile. All great.
+Made to measure
+Make it yours – change the colors, fonts, language, icons, logo, and more with a few lines of configuration. Material for MkDocs can be easily extended and provides many options to alter appearance and behavior.
+Fast and lightweight
+Don't let your users wait – get incredible value with a small footprint by using one of the fastest themes available with excellent performance, yielding optimal search engine rankings and happy users that return.
+Maintain ownership
+Own your documentation's complete sources and outputs, guaranteeing both integrity and security – no need to entrust the backbone of your product knowledge to third-party platforms. Retain full control.
+Open Source
+You're in good company – choose a mature and actively maintained solution built with state-of-the-art Open Source technologies, trusted by more than 20.000 individuals and organizations. Licensed under MIT.
+More than just a static site
+Built-in search
+Material for MkDocs makes your documentation instantly searchable with zero effort: say goodbye to costly third-party crawler-based solutions that can take hours to update. Ship your documentation with a highly customizable and blazing fast search running entirely in the user's browser at no extra cost.
+Even better: search inside code blocks, exclude specific sections or entire pages, boost important pages in the results and build searchable documentation that works offline.
+Learn more
+Code annotations
+Some examples need more explanation than others, which is why Material for MkDocs offers a unique and elegant way to add rich text almost anywhere in a code block.
+Code annotations can host formatted text, images, diagrams, code blocks, call-outs, content tabs, even interactive elements – basically everything that can be expressed in Markdown or HTML. Of course, code annotations work beautifully on mobile and other touch devices and can be printed.
+Learn more
+Social cards
+Make an impact on social media and increase engagement when sharing links to your documentation by leveraging the built-in social plugin. Material for MkDocs makes it effortless to generate a beautiful preview image for each page, which will drive more interested users to your Open Source or commercial project.
+While the social plugin uses what's already there, i.e. your project's name and logo, as well as each page's title and description, it's easy to customize preview images.
+Learn more
+10,000+ icons and emojis
+Supercharge your technical writing by making better use of the processing power of the visual cortex: Material for MkDocs ships more than 10,000 icons and emojis, which can be used in Markdown and HTML with simple shortcodes and an easy-to-remember syntax. Add color to icons and animate them. Make it pop.
+Use our dedicated icon search to quickly find the perfect icon for almost every use case and add custom icon sets with minimal configuration.
+Learn more
+Trusted in the industry
+Industry leaders, as well as many successful Open Source projects, rely on Material for MkDocs to create professional and beautiful documentation – no frontend experience required. Choose a mature and actively maintained solution and start writing in minutes.
+Get started
+What our users say
+John Maeda
+Author / How To Speak Machine
+The unwritten rule of the digital transformation handbook is that you'll never have the resources to design experiences like Apple. But you can always close most usability gaps with an awesome documentation experience. Expressed similarly in The Laws of Simplicity, "Learning makes things simpler". Material for MkDocs is the magical, extensible, Open Source tool that makes sharing knowledge both easier and beautiful for both the writers and learners.
+Sebastián Ramírez
+Creator of FastAPI, Typer & SQLModel
+One of the things people like the most about FastAPI, Typer, and SQLModel, is the documentation. I have put a lot of effort into making it easy to study and fast to understand. And a key component of that is the richness of ways I can explain and show things with Material for MkDocs. It's so easy to structure and explain things using it with all its features! It's simple to use, immersive for visitors, and beautiful by default.
+Michael Feng
+Co-Founder & CEO of Hummingbot
+Hummingbot Foundation depends on Material for MkDocs for our official website and documentation at hummingbot.org. We find it ideal for a complex documentation site because of the flexible navigation and layout options and built-in search.
+Become a sponsor
+By joining the Insiders program, you'll get immediate access to the latest features while also helping support the ongoing development of Material for MkDocs. Thanks to our awesome sponsors, this project is actively maintained and kept in good shape.
+Together, we can build documentation that simply works!
+Learn more
+Let's keep in touch
+Follow @squidfunk on Twitter
+Follow @squidfunk on Fosstodon
+Material for MkDocs on GitHub
+Material for MkDocs on DockerHub
+Material for MkDocs on PyPI
+Next
+Installation
+Copyright © 2016 - 2024 Martin Donath
+Made with Material for MkDocs Insiders
+Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/06_Image_Search_Engine/
+
+Title: Personalized Image Search - Gigalogy Tutorial
+
+Content:
+
+Image Search Engine
+Image search endpoint generates search results based on image similarity. You have to upload an image it will search most similar items for you and retrieve them as response.
+For example, this endpoint could be used in the product details page if you want to show similar product that matches the image of the product in the detail page.
+Request path:
+POST /v1/images/search
+You can find the list and description of required parameters here.
+You can find the sample codes for this implementation here.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/00_Personalized_search_engine/
+
+Title: Personalized search - Gigalogy Tutorial
+
+Content:
+
+ engine
+Our endpoint /v1/items/search, generates personalized search results tailored for each user in your application.
+It considers user behavior, current trends, and more and returns a customized search result for each individual.
+This endpoint takes several parameters to generate customized search results.
+To implement this solution, please use the endpoint /v1/items/search. The required parameters and an example request body can be found in our sandbox here.
+You can find sample code for this implementation here.
+Please note
+category : User can search the items using category field using the value that you have mapped in the environment setup (mapper creation) with the "category" key.
+flag : If you have any boolean values in your dataset and set as flag in mapper settings you can pass those values to filter the items using flag field.
+sort : In sort field you have to pass columns that doesn't contain text field. You couldn't pass title, second_title, third_title, fourth_title, description as the column name.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/00_Setup_and_training/project_setup_from_ui/
+
+Title: Project setup - Gigalogy Tutorial
+
+Content:
+
+Once the project is created, now it is time to setup the project.
+In the coming sections, we will guide you through various steps such as "data mapping" and "creating indexes" (found under the Environment Setup section), "integrating data" (explained in the Integration of Catalogue Information and User Behavior Data section), and "training your data" (in the Training Your Data section). These sections will cover you how to perform these actions by directly using our endpoints from the sandbox.
+In this section, we will show you how to complete all these steps directly through our platform UI.
+ from UI
+Upload data
+After creating project, go inside the project. At the top, there will be four tabs DETAILS, SETTINGS, INSIGHTS, SETUP. Click and go to the SETUP. Here you will find a box to upload your data file. Currently we accept CSV files only. Select your CSV file and click upload.
+Mapping your data
+In the next page, you will see a suggested mapping done for your data. Gigalogy personalization engine relies on specific default keys to operate. To integrate your item catalogue with our solution, it's essential to map you data source keys (such as item name, item description, tags, ingredients, category, etc.) with keys of Gigalogy personalization engine. Our personalizer then can understand your data.
+You can update the suggested mapping as you find necessary. This can also be modified later. When satisfied, click continue to proceed to the next step
+Rank Setting
+In the Rank settings step, you can modify and set the settings for the rank training, which will impact the "trending items" recommendation. If you are not sure about this, we highly recommend to keep it as it is (Default settings). Click continue to proceed to the next step.
+Setup completion
+In the next page you will see the status of the project setup. If there is any issue, it should give you the reason and you will be asked to restart the process. Please contact us if you fail to resolve the issue at support@gigalogy.com.
+If all above steps are completed successfully, your project setup is done.
+Next go to the SETTINGS tab, and you will find the section "Train data". Hit the "Train" button for each (Item, image, rank) to train your data. This is recommended to do once when you first setup your project. After this, it will run automatically every 3 hours (Default setting is 3 hours, can be changed based on requirement).
+Below you will find the training history with their status. You can update the rank settings and mapper.
+If you want to re-upload your data, go to the DATASET tab again to re-upload. This will not replace your old data, only add new data.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/02_Personalized_Feed/
+
+Title: Personalized Feed - Gigalogy Tutorial
+
+Content:
+
+These solutions can be used to personalize the user feed when they log into your website, open the homepage, or search for products, among other actions.
+There are two endpoints here that you can use at different sections of the page
+1. users/recommend
+POST /v1/users/recommend can be used to personalize the user feed such as the home page or some other general pages.
+v1/users/recommend endpoint understands user behavior such as browse history, purchase history, favorites/wishlist, time spent in your application and returns the most suitable items for them as a response.
+The details of required parameters and a sample request body for this can be found here.
+You can find sample code for implementation here.
+2. users/search/recommend
+This endpoint analyzes user search history and, based on that, returns recommended items to the user. It can be integrated into the user feed, the top page, personalized suggestions, or as a widget, among other applications.
+Additionally, the response from this endpoint can be utilized to send users emails about products recommended based on their search history.
+Request path:
+POST /v1/users/search/recommend
+To implement this solution, you can find the description of the required parameters and an example request body here. You can find sample codes for implementation here.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/00_Setup_and_training/03_Data_integration_%26_user_behavior_collection/
+
+Title: Integration of Catalogue information and user behavior data - Gigalogy Tutorial
+
+Content:
+
+This tutorial will cover how to integrate your catalogue information into GAIP and how to set up user behavior tracking and integrate with GAIP.
+Catalogue information integration.
+Prerequisite: Mapping creation and the index creation is done.
+Info
+This step can also be done from our platform (GAIP). Refer here for detail.
+There are two ways to import your catalogue information into GAIP.
+Upload you catalogue information as a CSV or JSON file using endpoint POST /v1/item/save.
+Fetch data from your API (or any external API) using endpoint POST /v1/item/save/remote.
+Uploading data using a file
+For uploading the data using a CSV file or JSON file, please use the POST /v1/item/save endpoint. Simply upload the file and confirm the server response is success. Confirm the task was successful using the GET/v1/tasks/{task_id} endpoint.
+Info
+This will throw an error and task will fail, if the keys during the Mapping creation step does not match with the keys in the file, OR if the indices were not created succesfully.
+Fetch item from external API
+To fetch data from external API, use the POST /v1/item/save/remote endpoint. The key and value types and an example request body for the endpoint can be found here in our sandbox.
+After hitting either of the endpoint above to import your data into GAIP, you will get a task ID in the response. Use this task ID and hit the /v1/tasks/{task_id} endpoint to confirm the operation was successful. In case it fails, you can also find the details there. For API documentation, please refer <>
+Search Items in GAIP after import
+You can search items by passing list of item ids fromPOST /v1/items/search endpoint. This endpoint will return searched items with item details.
+It is recommended to use this endpoint to confirm that the item catalogue is successfully imported into your project.
+User behavior data collection integration
+GAIP can collect different user behavior related information to optimize the recommendation for the user. Types of data collected are listed below with their endpoints.
+Data type Endpoint
+Product browsing: When user browse products. /v1/items/browse or /v1/items/browse/client
+Product Purchase: When user purchase a product with its quantity. /v1/items/purchase or /v1/items/purchase/client
+Rating: When a user rates a product. /v1/items/rating or /v1/items/rating/client
+User: User information such as age, gender and other customized attributes depending on your website. /v1/users or /v1/users/client
+You will find these endpoints listed in our Sandbox under section "User Data Collection". Please check the required parameters, value types and example request bodies for all the endpoints there.
+There are 3 ways to integrate user behavior data collection with GAIP
+Google Tag Manager
+Server to server integration
+Client to server integration
+You can also bulk upload user behavior data from the past. For that, please refer to Import user behavior data section.
+Comparison of each approach.
+Approach GTM Server to Server Client to Server
+Description Use Google Tag Manager (GTM) to collect data (User behavior) from your website and send it to GAIP via endpoint. The data is captured in the backend server of your application and then sent to GAIP via endpoint. The data is directly sent from your front end (Client side) to GAIP via endpoint.
+Pros Easy to implement, Minimum coding required, Flexible configuration More secure, Data integrity, Controlled environment Real-time data, Less server dependency
+Cons Limited customization, need to have basic knowledge about GTM, Dependency on third-party service, Might not work for certain browsers and plugins like AdBlockers More complex to set up, potential latency, maintenance required Less secure, Potential for inconsistent data, dependency on client-side behavior
+Below we will show the implementation of each approach.
+BE ADVISED: The following is a general guideline, and it may vary across different websites, contingent upon the specific implementation of your website.
+Google Tag manager
+Prerequisite: Your website must have GTM setup. If you do not have GTM setup, you can easily do the setup by following the guidelines here.
+If you are not familiar with basic GTM concepts, such as Tags, Triggers and Variables, please familiarize yourself first with these concepts before proceeding with this approach. You can find more resources related to this here.
+Generating user ID
+In our sandbox, Notice that in the user data collection endpoints, every endpoint has a parameter called user_id, and member_id. These are vital to identify each user so that you can personalize their experience. user_id is generated by GAIP for each user of your site. The endpoint to generate and user_id is GET /v1/users/generate/id. You can generate the user_id using GTM using below code. This code can be used with every Tag, which checks if there is a user_id and creates one if there is none.
+// Function to get or generate 'gaip_user_id' using a function expression
+var getGaipUser = function() {
+  return new Promise(function(resolve, reject) {
+    if (gaipUser !== null) {
+      resolve(gaipUser);
+    } else {
+      var idHeaders = new Headers();
+      idHeaders.append("project-key", "{{ YOUR_PROJECT_KEY_HERE }}");
+      idHeaders.append("api-key", "{{ YOUR_API_KEY_HERE }}");
+      fetch("https://api.recommender.gigalogy.com/v1/users/generate/id", { headers: idHeaders })
+      .then(function(response) {
+        return response.json();
+      })
+      .then(function(data) {
+        localStorage.setItem('gaip_user_id', data.detail.response);
+        resolve(data.detail.response);
+      })
+      .catch(reject);
+    }
+  });
+};
+member_id can be set by you depending on how your site identifies unique users such as user ID, phone number, email address etc.
+Collecting and sending user browsing data
+Set up a variable to capture the product name/title/ID, when the user goes a product details page or clicks on a product to enlarge it or open a pop-up etc.
+Set up a trigger so that the tag would fire when the user goes browses an item (Go to product detail page or quick view options etc.).
+Create a custom HTML Tag with the above trigger and variable and put the below code in the tag.
+Collecting and sending user purchase data
+Set up a variable to capture the all the purchase detail, when the user makes a purchase. This could be from the purchase confirmation page etc.
+Set up a trigger so that the tag would fire when the user make the purchase.
+Create a custom HTML Tag with the above trigger to send the information to endpoint POST /v1/purchase or POST /v1/purchase/client
+Collecting and sending user rating data
+Setup variables to capture the product name/title/ID and the rating, when the user rates an item positively or negatively. We can also consider an item is positively rated when user adds the item to wishlist.
+Set up a trigger for the tag to fire when the user rates a product.
+Create a custom HTML Tag with the above trigger and variables to send the information to the endpoint POST /v1/rating or POST /v1/rating/client
+Collecting and sending user data
+Setup variable to capture the user information.
+For this, the trigger could be setup up when the user logs or update their information.
+Create a custom HTML Tag with the above trigger and variables to send the information to the endpoint POST /v1/user or POST /v1/user/client
+Server to server integration
+For server to server integration, you will need to generate Project key and API as mentioned in the credentials section.
+User information
+The below request path, takes user information, such as name, age, gender, address and saves them in the gaip database.
+POST /v1/user
+Here is an example request body
+{
+  "user_id": "a0cc6beb-2909-459b-be55-62196af78ce4",
+  "member_id": "df3456tg-2909-459b-be55-62196afedf85",
+  "user_info": {
+    "address": "string",
+    "gender": "integer --> 1 for male or 2 for female or 3 for others",
+    "age": 25,
+    "user_type": [
+      {
+        "key_name1": "value1_value2",
+        "separator": "_"
+      },
+      {
+        "key_name2": "value3"
+      }
+    ]
+  }
+}
+You can find the sample code for implementation here
+Product browse
+You can use the below endpoint to capture user browsing information and save them in GAIP database
+POST /v1/items/browse
+It takes user_id and item_id as required parameters.
+Here is an example value of the request body
+  {
+    "user_id": "a0cc6beb-2909-459b-be55-62196af78ce4",
+    "member_id": "df3456tg-2909-459b-be55-62196afedf85",
+    "item_id": "1000764491"
+  }
+You can find sample code here
+Product purchase
+You can use the below endpoint to capture user's product purchase information and save them in GAIP database
+POST /v1/purchase
+It takes user_id, item_list which includes item_id, price, quantity for a specific item as required parameters.
+Here is an example request body
+  {
+    "user_id": "a0cc6beb-2909-459b-be55-62196af78ce4",
+    "member_id": "df3456tg-2909-459b-be55-62196afedf85",
+    "item_list": [
+      {
+        "item_id": "1000757666",
+        "price": 5000,
+        "quantity": 1
+      },
+      {
+        "item_id": "1000764491",
+        "price": 400,
+        "quantity": 7
+      }
+    ]
+  }
+You a find sample code for this implementation here
+Product rating
+You can use the below endpoint to capture user's product rating information and save them in GAIP database
+POST /v1/rating
+It takes user_id, item_id, and rating for the specific item as required parameters.
+Here is a sample request body
+{
+  "user_id": "a0cc6beb-2909-459b-be55-62196af78ce4",
+  "member_id": "df3456tg-2909-459b-be55-62196afedf85",
+  "item_id": "1000764491",
+  "rating": "1"
+}
+You can find the sample code for this implementation here
+If you want to save your data with bulk upload you can use above-mentioned endpoint.
+Client to server integration
+For client to server integration, you will need to generate client key as described in the  sections. Once the client key is ready, you can directly send the request from your client side to GAIP, using the client key provided.
+Note that while generating client key, you can add whitelisted domains, which whitelists the request origin. This is recommended to enhance security.
+The rest of the implementation method is same as server to server integration.
+Import user behavior data
+Similar to data integration, all 4 kinds of user information (browse, purchase, rating, user) can be bulk uploaded. This could be useful if you already have this information from the past and want to import it into GAIP.
+To import user behavior and user information in bulk, first you need to create mapper to match the keys with GAIP.
+To create the mapper, the endpoints with the example request bodies can be found here in the gigalogy recommender page. You can also find the sample codes for mapper creation here in the API documentation page
+Next we will use the below 4 endpoints to upload each category of data in bulk
+Request path for product browsing history: POST /v1/items/browse/save
+Request path for purchase history: POST /v1/items/purchase/save
+Request path for rating history: POST /v1/items/rating/save
+Request path to upload user information in bulk: POST /v1/users/save
+You can find these endpoints with the example request bodies here. The sample code can be found here in the API documentation page
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/Questionnaire/
+
+Title: Questionnaire - Gigalogy Tutorial
+
+Content:
+
+Our questionnaire software is specifically tailored to provide recommendations for novice and experienced users. Here is how it works:
+ Design: We meticulously design the questionnaire to encapsulate all necessary questions and decisions.
+ Registration: The questionnaire is seamlessly integrated into the project, enabling easy access and interaction.
+User Response Collection: User responses are gathered through an interactive, user-friendly, UI-based questionnaire embedded in the website.
+Response Processing: These responses are then processed by the GAIP system.
+Product Recommendation: Finally, personalized product recommendations are suggested based on the processed responses.
+Furthermore, the registration of the questionnaire into the project constitutes two crucial phases:
+Registration of : Where the questionnaire is incorporated into the project.
+Registration of  Mapper: Which equips the AI system with the knowledge to accurately interpret decisions based on the users' responses to the questions.
+Registration of 
+To manage the questionnaire, a series of RESTful API endpoints are provided which can be explored in our sandbox.
+Creating a new questionnaire: Make a POST request to /v1/questionnaires to create a new questionnaire. The sandbox hosts detailed explanations and sample request bodies. The questionnaire can be divided into different sections, with at least one required.
+Listing all questionnaires: Sending a GET request to /v1/questionnaires/list lists all the questionnaire's ID and names. A project can host multiple questionnaires that are differentiated through these IDs.
+Viewing a questionnaire: Make a GET request to /v1/questionnaires/{questionnaire_id} to retrieve a specific questionnaire's details, including sections and questions.
+Updating and deleting questionnaire: Use the PUT /v1/questionnaires/{questionnaire_id} and DELETE /v1/questionnaires/{questionnaire_id} endpoints to update or remove a questionnaire respectively.
+Registration of  Mapper
+A questionnaire mapper is essential to instruct the system on making decisions based on user responses. Corresponding endpoints for creating, viewing, and editing a mapper are found at /v1/questionnaires/{questionnaire_id}/mapper.
+To create a mapper, use POST /v1/questionnaires/{questionnaire_id}/mapper.
+The mapper consists of five main components:
+Questions: This section maps the decisions for all questionnaire questions.
+Exclusivity: Handles duplicate removal and exclusivity requirements.
+Prompt Generation: This section produces prompts that are used by the AI to generate recommendations.
+Prompt Order: Sets the sequence in which prompts appear.
+GPT settings: Provides settings and parameters to the GPT module for context understanding.
+Each section will be explained in detail as we progress further.
+Questions
+Inside a question object we add mapper for different possible values.
+A questionnaire can have three types of questions 1. Radio button: User can select a single answer, 2. Checkbox: User can select multiple answers, 3. Free text: User can enter string.
+To add mapper for a single value, use the value key as the key for related decision objects. This approach allows you to define how the system should handle or process that value.
+Example
+{
+  "skincare_history": {
+    "q2": {
+      "mapper": {
+        "a": {
+          "exclude": ["Retinol",  "Retinol based products"]
+        }
+      }
+    }
+  }
+}
+In the above example, the key a represents answer selected by user. The object associated with a specifies decisions related to it—in this case, an exclude list. This list contains the values Retinol and Retinol based products, defined by the creator of the mapper. How this Exclude list is used is covered in a latter section below.
+To add mapper for a combination of value (Answers with multiple selection), - Use | sign as or to combine more than one values for a decision in mapper. - Use & sign as and to combine more than one values for a decision in mapper. Example
+{
+  "a|b|c": {
+    "exclude": ["Retinol",  "Retinol palmitate"]
+  }
+}
+To add mapper for free-text value, use any key to add the decision rule. This can be useful for taking age, allergy information etc. Example
+{
+  "any": {
+    "age": ""
+  }
+}
+When a decision need to be taken if a set of value is not selected we should use negative selection.
+An example scenario.
+What of the following skincare you follow every day?
+a. Cleanser b. Moisturizer c. Spf d. Serum e. Toner f. Night cream g. Eye cream
+Decision: if cleanser, moisturizer and spf is chosen, AI will consider all products
+If one of the basic step(cleanser, moisturizer, spf) is not chosen, Ai will exclude Retinol, Retinol palmitate, tranexamic acid, vitamin C, vitamin C derivative , arbutin
+Here we need to take a decision if cleanser, moisturizer, spf is not selected, this is a candidate for negative selection.
+Rules: Use ~ as key to add negative selection decisions in a question mapper. Use value serial as usual inside the negative selection object to add decision if a value is not selected, e.g. "a": "decision" Example
+{
+  "q1": {
+    "mapper" : {
+      "a": {
+        "tags": ["acne", "anti-aging"]
+      },
+      "~": {
+        "a|b|c": {
+          "exclude": ["Retinol",  "Retinol palmitate",  "tranexamic acid",  "vitamin c",  "vitamin c derivative" , "arbutin"]
+        },
+        "d": {
+          "tags": ["Retinol"]
+        }
+      }
+    }
+  }
+}
+Exclusivity
+The integration of exclusivity in the mapper is crucial for eliminating duplicates and addressing exclusivity prerequisites.
+To incorporate exclusivity, you utilize the exclusive key to append an object in the following format:
+"prompt_key-1" :  "prompt_key-2"
+Doing so ensures that any value present in both prompt_key-1 and prompt_key-2, within the final prompt, will be extracted exclusively from prompt_key-2.
+For instance:
+{
+  "exclusive": {
+    "exclude": "includes",
+    "exclude_tag": "include_tag"
+  }
+}
+Prompt
+Each prompt section is a decision point. A prompt section has two constituting parts, the sentence and the variable. Let's say we have a decision point to exclude products that has certain tags. we can add a prompt section named exclude_tags as follows
+{
+  "prompt_sections": {
+    "exclude_tags": "Exclude any products that has following tags {exclude_tags}."
+  }
+}
+And We need to add the exclude_tags in mapper wherever this decision point need to be mapped. An example mapper, like we have discussed above, would be
+{
+  "q1": {
+    "mapper": {
+      "a": {
+        "exclude_tags": ["retinol", "retinol based products"]
+      }
+    }
+  }
+}
+An example prompt section for a cosmetics company could be.
+{
+  "prompt_sections": {
+    "age": "I am {age} years old.",
+    "gender": "I am a {gender}.",
+    "skin_type": "My skin type is {skin_type}.",
+    "include_tag": "Show products that contain the tag: {include_tag}",
+    "exclude_tag": "Exclude products that do contain the tag: {exclude_tag}"
+  }
+}
+Prompt Order
+This section is to decide the order of the prompts in the prompt section above. This section must contain all the prompts from the above section. This is the order by which the prompts will be sent to GPT model. Note: This order effects the quality of the response. User should try different orders to find the best result.
+An example prompt order from the prompt_sections sample above sample could be:
+{
+  "prompt_order": [
+    "age",
+    "gender",
+    "skin_type",
+    "include_tag",
+    "exclude_tag"
+  ]
+}
+GPT Settings
+This section is required for the context and various parameter setting for GPT. The prompt generated til this point above, goes to our GPT model, which is familiar with the item catalogue. This GPT model, in turn generates this recommendation for the user. Below is an example.
+{
+    "gpt_settings": {
+    "model": "gpt-3.5-turbo-0613",
+    "search_max_token": 2500,
+    "intro": "Using given context make recommendation. make recommendation of top {{ recommend_count }} products in json format and your response should denote the json part with three tick notations(```). Use `we` as your pronoun. json object should have following format. {'comment': 'make an overall comment about your recommendations', 'advice':'...', 'recommendations': [{'id':'...', 'comment': 'why you chose this product'},{'id':'...', 'comment': 'why you chose this product'}]}. if the query includes `specialist_pretext` then include that suggestion in your 'advice'",
+    "system": "You are an expert on ...",
+    "temperature": 0,
+    "top_p": 1,
+    "frequency_penalty": 0,
+    "presence_penalty": 0,
+    "stop": [
+      "AI:",
+      "Human:"
+    ],
+    "recommend_count": 3,
+    "result_includes": [
+      "key_name_1",
+      "key_name_2"
+    ],
+    "top_k": 20,
+    "is_keyword_enabled": true
+  }
+}
+Integration of  Recommendation
+The questionnaire recommendation function processes user responses, identifies the corresponding questionnaire and decision points, and generates personalized recommendations. The endpoint POST /v1/questionnaire/recommend is designed for this purpose.
+Detailed examples, required parameters, and explanations can be found in our sandbox.
+This endpoint requires questionnaire_id as input. This identifier helps determine which questionnaire and mapping to consult, and which user response to consider, leading to the generation of personalized results.
+You will notice the recommend_count parameter also exist in the mapper. If it is set, the value of this parameter takes priority over recommend_count variable in questionnaire mapper.
+The response format of this endpoint can be customized using the previously mentioned GPT settings.
+Reviewing  Recommendation Logs
+By utilizing the endpoint GET /v1/questionnaires/{questionnaire_id}/logs, you're able to access the log of requests dispatched to the v1/questionnaire/recommend endpoint, along with the corresponding generated responses.
+Previous
+
+Next
+GPT 
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/02_gpt_integration/gpt_integration/
+
+Title: GPT Integration - Gigalogy Tutorial
+
+Content:
+
+GPT 
+GPT Integration
+GPT Feedback
+
+GPT Integration
+After preparing, uploading and training your data, now you are ready to interact with your bot, by asking it question with texts and images via our endpoints.
+Asking question to the bot
+To send a text only question/query to GPT, use the endpoint POST /v1/gpt/ask. Find details of the required parameters with explanation and an example request body in our sandbox under ""
+In the response, you will get the response to the query, along with some other information related, such as the conversation_id, tokens, etc.
+For query with image, use the endpoint POST /v1/gpt/ask/vision. There is one additional parameter here, to add the image file. This endpoint will take both the image and the query and respond based on both input. Here you can only use gpt-4-vision-preview model.
+Note that if you do not pass any gpt_profile_id, it will use the default profile that was set during the setup.
+Checking conversation history
+There are two ways to check conversation history 1. Using API endpoint 2. From the GAIP UI.
+Using endpoint
+Using our endpoint GET /v1/gpt/conversations, you can check conversation history of your project, for a specific date range. By default, (if no time period is specified), this endpoint will give the conversation history for last 7 days. If you want to see the response detail of any particular conversation, you can use your endpoint GET /v1/gpt/conversations/{conversation_id}. This endpoint will take the conversation ID and will give the detail of that particular conversation.
+From the GAIP UI
+In our platform, navigate to your project's insight page. Here you will find "GPT-Flow History" table. This will show all the conversation during the time range selected above. You can filter this table with user id, query, feedback. You can also see the details of each conversation by clicking on the details icon at the right. To download the history table, use the download button at the top right of the table. This will download the table as CSV. Note that the downloaded file will only contain the information as it is on the table, with the date and other filters applied.
+Previous
+GPT 
+Next
+GPT Feedback
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/glossary/
+
+Title: Glossary - Gigalogy Tutorial
+
+Content:
+
+Index
+Index are the data organizing mechanism which are similar to the database of relational database system.
+Mapper
+Mapper is the system to map recommender key to data source key. Therefore, solution can understand data from any data source generate intelligence from them.
+Reindex
+Reindexing is a process to copy documents from one index to another, optionally filtering the source documents by a query, fetching the documents from a remote cluster. You will about to change the settings and mappings of a destination index with reindex.
+Index Settings
+Index settings are one of the index modules created per index and control all aspects of the index.
+Index Mappings
+Index mapping is the process of defining how a document and the fields it contained are sorted and indexed.
+Previous
+
+Made with Material for MkDocs
+
+
+URL: https://tutorial.gigalogy.com/tutorial/01_Integration/purchased_together/
+
+Title: Recommend items purchase together - Gigalogy Tutorial
+
+Content:
+
+This endpoint considers the items that are frequently purchased together and recommend those items for particular products. The endpoint, along with other parameters, takes item_id as an input, and in response, gives items that are usually purchased together with the given item.
+Request path for this solution is:
+POST /v1/items/purchased/together
+You can find the required parameters with their description and an example request body here in our sandbox.
+You can find sample code for implementation here in our API documentation.
+Previous
+
+Next
+
+Made with Material for MkDocs
+
+

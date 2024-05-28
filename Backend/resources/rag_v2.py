@@ -1,9 +1,8 @@
 import qdrant_client  # Client for Qdrant, a vector database
 import google.generativeai as genai  # Generative AI library for Gemini API
 from qdrant_client import QdrantClient  # Qdrant client for interacting with Qdrant database
-from config.settings import genaimodel
 from services.getreleventText import generate_context
-
+from config.settings import tuned_model
 
 
 def generate_answer(question: str, collection_name, qdrant_client: QdrantClient) -> str:
@@ -11,9 +10,13 @@ def generate_answer(question: str, collection_name, qdrant_client: QdrantClient)
         # Call the generate_context function to get the context
         context = generate_context(question, collection_name, qdrant_client)
 
+        print(context)
+
         prompt_parts = [
         "You are a helpful assistant for Gigalogy Company, dedicated to providing accurate and relevant information within the context provided. "
-        "Please aim for answers between 200-1000 words, prioritizing helpfulness and accuracy. If the answer is not found in the context, politely indicate that the question is beyond the scope of the provided context. "
+        "Please aim for answers between 100-300 words, prioritizing helpfulness and accuracy. If a question falls outside the 'Context' given, "
+        "look for the closest match in the context and if that makes sense use that or else avoid providing inaccurate information. "
+        "Instead, politely indicate that the question is beyond the scope of the provided context. "
         "If the question is about an endpoint or anything related to an endpoint, provide all relevant endpoint details in the following format: \n"
         "Endpoint: \n"
         "HTTP Method: \n"
@@ -24,17 +27,11 @@ def generate_answer(question: str, collection_name, qdrant_client: QdrantClient)
         f"context: {context}",
         "input: ",
         "output: "
-    ]
-        
+]
 
-        print(context)
-        
-        response = genaimodel.generate_content(prompt_parts)
-        
-        # ------------
-                
-        # t_model = tuned_model
-        # response = t_model.generate_content(metaprompt)
+
+        response = tuned_model.generate_content(prompt_parts)
+        print(response.text)
 
         # # Remove markdown syntax from the response text
         # response_text = response.text.replace("**", "").replace("*", "").replace("`", "")
