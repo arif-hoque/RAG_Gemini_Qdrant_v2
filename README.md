@@ -1,7 +1,6 @@
 # RAG Application
 
 This RAG application harnesses data from a website, vectorizes it using Qdrant, a vector database, and employs Gemini AI to generate answers to user queries. By leveraging Qdrant's vectorization capabilities, the application efficiently retrieves relevant documents from the database when users submit questions via the endpoint facilitated by FASTAPI. Gemini AI then formulates responses based on the queried question and the pertinent texts or documents sourced from the vector database.
-Added webhook
 
 ## Built With
 
